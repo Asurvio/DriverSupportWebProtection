@@ -1,0 +1,37 @@
+# Node.js with React
+# Build a Node.js project that uses React.
+# Add steps that analyze code, save build artifacts, deploy, and more:
+# https://docs.microsoft.com/azure/devops/pipelines/languages/javascript
+
+trigger:
+- main
+
+pool:
+  vmImage: 'windows-latest'
+
+steps:
+- task: PowerShell@2
+  inputs:
+    targetType: 'inline'
+    script: 'ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts'
+
+- task: NodeTool@0
+  inputs:
+    versionSpec: '16.17.0'
+  displayName: 'Install Node.js'
+
+- task: Yarn@3
+  inputs:
+    projectDirectory: './'
+    arguments: 'install'
+
+- task: Yarn@3
+  inputs:
+    projectDirectory: './'
+    arguments: 'release'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.SourcesDirectory)\build'
+    ArtifactName: 'extensiondrop'
+    publishLocation: 'Container'
