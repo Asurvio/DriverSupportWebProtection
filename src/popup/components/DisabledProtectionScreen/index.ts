@@ -1,1 +1,0 @@
-export { DisabledProtectionScreen } from './DisabledProtectionScreen';
