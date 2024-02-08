@@ -10,11 +10,10 @@ pool:
   vmImage: 'windows-latest'
 
 steps:
-
-- task: CmdLine@2
-  displayName: 'Replace SSH links'
+- task: PowerShell@2
   inputs:
-    script: 'git config --global url."https://github".insteadOf ssh://git@github'
+    targetType: 'inline'
+    script: 'ssh-keyscan -t rsa github.com >> ~/.ssh/known_hosts'
 
 - task: NodeTool@0
   inputs:
@@ -22,25 +21,16 @@ steps:
   displayName: 'Install Node.js'
 
 - task: Yarn@3
-  displayName: 'Yarn Install'
   inputs:
     projectDirectory: './'
     arguments: 'install'
 
 - task: Yarn@3
-  displayName: 'Yarn Filters-convert'
-  inputs:
-    projectDirectory: './'
-    arguments: 'filters-convert'
-
-- task: Yarn@3
-  displayName: 'Yarn Build'
   inputs:
     projectDirectory: './'
     arguments: 'release'
 
 - task: PublishBuildArtifacts@1
-  displayName: 'Publish Artifact'
   inputs:
     PathtoPublish: '$(Build.SourcesDirectory)\build'
     ArtifactName: 'extensiondrop'
