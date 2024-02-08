@@ -1,0 +1,38 @@
+{
+    "popup_learn_more_link": {
+        "message": "Ketahui lebih lanjut"
+    },
+    "options_languages_english": {
+        "message": "Malay"
+    },
+    "options_block_ads_on_website": {
+        "message": "Halang iklan di laman ini"
+    },
+    "options_open_settings": {
+        "message": "Tetapan Driver Support One"
+    },
+    "options_github": {
+        "message": "GitHub"
+    },
+    "options_notice_compare_link": {
+        "message": "Ketahui lebih lanjut"
+    },
+    "context_menu_block_ads_on_site": {
+        "message": "Halang iklan di laman ini..."
+    },
+    "context_menu_open_options": {
+        "message": "Tetapan Driver Support One..."
+    },
+    "context_menu_disable_blocking": {
+        "message": "Henti sebentar perlindungan Driver Support One"
+    },
+    "options_custom_filter_add_label_description": {
+        "message": "Penerangan"
+    },
+    "name": {
+        "message": "Driver Support One"
+    },
+    "description": {
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
+    }
+}

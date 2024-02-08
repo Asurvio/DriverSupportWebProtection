@@ -1,0 +1,38 @@
+{
+    "options_languages_english": {
+        "message": "Català"
+    },
+    "options_base_filter": {
+        "message": "Filtre Anglès"
+    },
+    "options_block_ads_on_website": {
+        "message": "Bloca els anuncis en aquest lloc web"
+    },
+    "options_open_settings": {
+        "message": "Opcions d'Driver Support One"
+    },
+    "options_github": {
+        "message": "GitHub"
+    },
+    "options_discuss": {
+        "message": "Parleu sobre Driver Support One"
+    },
+    "popup_settings_report_issue": {
+        "message": "Informar d’un problema"
+    },
+    "context_menu_block_ads_on_site": {
+        "message": "Filtreu els anuncis de publicitat en aquesta pàgina web..."
+    },
+    "context_menu_open_options": {
+        "message": "Opcions d'Driver Support One..."
+    },
+    "context_menu_disable_blocking": {
+        "message": "Atureu la protecció d'Driver Support One"
+    },
+    "name": {
+        "message": "Driver Support One"
+    },
+    "description": {
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
+    }
+}
