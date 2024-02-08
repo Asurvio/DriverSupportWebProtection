@@ -1,3 +1,3 @@
 chrome.devtools.panels.create('AdGuard',
-    'assets/icons/pageboost - favicon.png',
+    'assets/icons/dsone - favicon.png',
     'debugging.html');

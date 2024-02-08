@@ -24,7 +24,7 @@
         "message": "Japanese"
     },
     "options_base_filter": {
-        "message": "PageBoost ベースフィルタ"
+        "message": "Driver Support One ベースフィルタ"
     },
     "options_custom_filters_option": {
         "message": "カスタムフィルタ"
@@ -36,19 +36,19 @@
         "message": "設定"
     },
     "options_nav_link_about": {
-        "message": "PageBoost について"
+        "message": "Driver Support One について"
     },
     "options_block_ads_on_website": {
         "message": "このページで広告を手動ブロックする"
     },
     "options_open_settings": {
-        "message": "PageBoost 設定"
+        "message": "Driver Support One 設定"
     },
     "options_settings_title": {
         "message": "設定"
     },
     "options_about_title": {
-        "message": "PageBoost について"
+        "message": "Driver Support One について"
     },
     "options_about_version": {
         "message": "バージョン"
@@ -66,7 +66,7 @@
         "message": "公式ホームページ"
     },
     "options_discuss": {
-        "message": "PageBoostについての意見交換"
+        "message": "Driver Support One についての意見交換"
     },
     "options_about_rights_reserved": {
         "message": "All rights reserved."
@@ -87,13 +87,13 @@
         "message": "不具合・問題を報告する…"
     },
     "context_menu_open_options": {
-        "message": "PageBoost 設定"
+        "message": "Driver Support One 設定"
     },
     "context_menu_disable_blocking": {
-        "message": "PageBoostの保護を一時的に停止する"
+        "message": "Driver Support One の保護を一時的に停止する"
     },
     "context_menu_enable_blocking": {
-        "message": "PageBoost保護をオンにする"
+        "message": "Driver Support One 保護をオンにする"
     },
     "options_add_custom_filter": {
         "message": "カスタムフィルタを追加"
@@ -165,9 +165,9 @@
         "message": "比較を見る"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

@@ -1,6 +1,6 @@
 {
     "name": {
-        "message": "Блокувальник реклами PageBoost MV3 Експериментальний"
+        "message": "Блокувальник реклами Driver Support One MV3 Експериментальний"
     },
     "popup_protection_enabled_status": {
         "message": "Захист увімкнено"
@@ -24,7 +24,7 @@
         "message": "Експериментальний"
     },
     "popup_steps_experimental_description": {
-        "message": "Зараз PageBoost вже працює над версією для Manifest v3."
+        "message": "Зараз Driver Support One вже працює над версією для Manifest v3."
     },
     "popup_steps_new_tech_title": {
         "message": "Інноваційний"
@@ -36,13 +36,13 @@
         "message": "Швидкий"
     },
     "popup_steps_fast_work_description": {
-        "message": "Ми покращили продуктивність PageBoost завдяки рефакторингу наших бібліотек для блокування реклами та використання можливостей MV3."
+        "message": "Ми покращили продуктивність Driver Support One завдяки рефакторингу наших бібліотек для блокування реклами та використання можливостей MV3."
     },
     "popup_steps_v3_manifest_title": {
         "message": "Маніфест v3"
     },
     "popup_steps_v3_manifest_description": {
-        "message": "Після переходу PageBoost на MV3 ви можете помітити різницю лише в одному — в кращій продуктивності."
+        "message": "Після переходу Driver Support One на MV3 ви можете помітити різницю лише в одному — в кращій продуктивності."
     },
     "popup_learn_more_link": {
         "message": "Докладніше"
@@ -87,7 +87,7 @@
         "message": "Ukrainian"
     },
     "options_base_filter": {
-        "message": "Основний фільтр PageBoost"
+        "message": "Основний фільтр Driver Support One"
     },
     "options_custom_filters_option": {
         "message": "Власні фільтри"
@@ -111,7 +111,7 @@
         "message": "Блокувати рекламу на цьому сайті"
     },
     "options_open_settings": {
-        "message": "Налаштування PageBoost"
+        "message": "Налаштування Driver Support One"
     },
     "options_settings_title": {
         "message": "Налаштування"
@@ -135,7 +135,7 @@
         "message": "Офіційний сайт"
     },
     "options_discuss": {
-        "message": "Обговорення PageBoost"
+        "message": "Обговорення Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "Усі права захищено."
@@ -165,13 +165,13 @@
         "message": "Повідомити про проблему..."
     },
     "context_menu_open_options": {
-        "message": "Налаштування PageBoost..."
+        "message": "Налаштування Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "Призупинити захист PageBoost"
+        "message": "Призупинити захист Driver Support One"
     },
     "context_menu_enable_blocking": {
-        "message": "Увімкнути захист PageBoost"
+        "message": "Увімкнути захист Driver Support One"
     },
     "options_add_custom_filter": {
         "message": "Додати власний фільтр"
@@ -246,6 +246,6 @@
         "message": "Порівняти"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

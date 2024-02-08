@@ -18,7 +18,7 @@
         "message": "Blokeeri sellel veebisaidil reklaamid"
     },
     "options_open_settings": {
-        "message": "PageBoosti seaded"
+        "message": "Driver Support One seaded"
     },
     "options_acknowledgment": {
         "message": "Tänuavaldused"
@@ -42,18 +42,18 @@
         "message": "Teavita probleemist..."
     },
     "context_menu_open_options": {
-        "message": "PageBoosti seaded..."
+        "message": "Driver Support One seaded..."
     },
     "context_menu_disable_blocking": {
-        "message": "Peata PageBoosti kaitse"
+        "message": "Peata Driver Support One kaitse"
     },
     "options_custom_filter_add_label_description": {
         "message": "Kirjeldus"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

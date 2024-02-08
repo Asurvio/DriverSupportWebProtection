@@ -21,7 +21,7 @@
         "message": "Polish"
     },
     "options_base_filter": {
-        "message": "Podstawowy filtr PageBoost"
+        "message": "Podstawowy filtr Driver Support One"
     },
     "options_custom_filters_option": {
         "message": "Niestandardowe filtry"
@@ -39,7 +39,7 @@
         "message": "Blokuj reklamy na tej stronie"
     },
     "options_open_settings": {
-        "message": "Ustawienia PageBoost"
+        "message": "Ustawienia Driver Support One"
     },
     "options_settings_title": {
         "message": "Ustawienia"
@@ -63,7 +63,7 @@
         "message": "Oficjalna strona"
     },
     "options_discuss": {
-        "message": "Dyskusja PageBoost"
+        "message": "Dyskusja Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "Wszelkie prawa zastrzeżone."
@@ -84,13 +84,13 @@
         "message": "Zgłoś problem..."
     },
     "context_menu_open_options": {
-        "message": "Ustawienia PageBoost..."
+        "message": "Ustawienia Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "Wstrzymaj ochronę PageBoost"
+        "message": "Wstrzymaj ochronę Driver Support One"
     },
     "context_menu_enable_blocking": {
-        "message": "Uruchom ochronę PageBoost"
+        "message": "Uruchom ochronę Driver Support One"
     },
     "options_add_custom_filter": {
         "message": "Dodaj niestandardowy filtr"
@@ -159,9 +159,9 @@
         "message": "Dodaj"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

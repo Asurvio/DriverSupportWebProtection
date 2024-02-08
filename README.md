@@ -8,6 +8,9 @@ Check the Title at the top of the file to ensure it's the right one in case they
 Our domain whitelist is in Confluence: https://asurvio.atlassian.net/wiki/spaces/SOLVEIQ/pages/933134337/Whitelisted+Domains
 Put each domain on its own line in the following format, replacing "example.com" with the domain to whitelist:
 @@||example.com^$document
+The "@@" make it an exception. I don't know why some questionable-looking sites are included by default as well,
+making it look wrong by association, but this makes it exclude our sites from the filter.
+After that, run "yarn filters-convert" to convert them to the declarative format the app actually reads, then build the project.
 
 "yarn dev" for dev build
 

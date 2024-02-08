@@ -4,6 +4,12 @@ import style from './loader.module.pcss';
 
 export const Loader = () => {
     return (
-        <img className={style.loader} src={chrome.runtime.getURL('assets/gifs/loading.gif')} alt="Loading" />
+        <div className={style.container}>
+            <img
+                className={style.loader}
+                src={chrome.runtime.getURL('assets/svgs/dsone-logo.svg')}
+                alt="Loading"
+            />
+        </div>
     );
 };

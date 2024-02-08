@@ -16,16 +16,16 @@ export const prefs = (() => {
         get ICONS() {
             return lazyGet(Prefs, 'ICONS', () => ({
                 ENABLED: {
-                    19: chrome.runtime.getURL('assets/icons/pageboost - favicon.png'),
-                    38: chrome.runtime.getURL('assets/icons/pageboost - favicon.png'),
+                    19: chrome.runtime.getURL('assets/icons/dsone - favicon.png'),
+                    38: chrome.runtime.getURL('assets/icons/dsone - favicon.png'),
                 },
                 DISABLED: {
-                    19: chrome.runtime.getURL('assets/icons/pageboost - favicon.png'),
-                    38: chrome.runtime.getURL('assets/icons/pageboost - favicon.png'),
+                    19: chrome.runtime.getURL('assets/icons/dsone - favicon.png'),
+                    38: chrome.runtime.getURL('assets/icons/dsone - favicon.png'),
                 },
                 BROKEN: {
-                    19: chrome.runtime.getURL('assets/icons/pageboost - favicon.png'),
-                    38: chrome.runtime.getURL('assets/icons/pageboost - favicon.png'),
+                    19: chrome.runtime.getURL('assets/icons/dsone - favicon.png'),
+                    38: chrome.runtime.getURL('assets/icons/dsone - favicon.png'),
                 },
             }));
         },

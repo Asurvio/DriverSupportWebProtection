@@ -9,7 +9,7 @@
         "message": "Halang iklan di laman ini"
     },
     "options_open_settings": {
-        "message": "Tetapan PageBoost"
+        "message": "Tetapan Driver Support One"
     },
     "options_github": {
         "message": "GitHub"
@@ -21,18 +21,18 @@
         "message": "Halang iklan di laman ini..."
     },
     "context_menu_open_options": {
-        "message": "Tetapan PageBoost..."
+        "message": "Tetapan Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "Henti sebentar perlindungan PageBoost"
+        "message": "Henti sebentar perlindungan Driver Support One"
     },
     "options_custom_filter_add_label_description": {
         "message": "Penerangan"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

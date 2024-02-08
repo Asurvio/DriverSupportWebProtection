@@ -2,13 +2,13 @@ import React, { useContext, useLayoutEffect } from 'react';
 import { observer } from 'mobx-react';
 import { Route, Switch, HashRouter } from 'react-router-dom';
 
-import { Welcome } from 'Options/components/Welcome';
 import { Icons } from 'Common/components/ui';
 import { log } from 'Common/logger';
 import { NOTIFIER_EVENTS } from 'Common/constants/common';
 import { Sidebar } from 'Options/components/Sidebar';
 import { Notifications } from 'Options/components/Notifications';
 import { About } from 'Options/components/About';
+import { ReportIssue } from 'Options/components/ReportIssue';
 import { Limits } from 'Options/components/Limits';
 import { rootStore } from 'Options/stores';
 import { Settings } from 'Options/components/Settings';
@@ -21,6 +21,7 @@ import { useEventListener } from 'Common/hooks/useEventListener';
 import { useNotifyDynamicRulesLimitsError } from '../../hooks/useNotifyDynamicRulesLimitError';
 
 import styles from './options-app.module.pcss';
+import { Acknowledgements } from '../Acknowledgements';
 
 export const OptionsApp = observer(() => {
     const store = useContext(rootStore);
@@ -55,7 +56,7 @@ export const OptionsApp = observer(() => {
         <HashRouter hashType="noslash">
             <Switch>
                 {/* The route which will not render the sidebar and icons */}
-                <Route path="/welcome" component={Welcome} />
+                <Route path="/report-issue" component={ReportIssue} />
                 {/* Catch-all route that will match everything except welcome page */}
                 <Route>
                     <Icons />
@@ -64,12 +65,26 @@ export const OptionsApp = observer(() => {
                         <div className={styles.content}>
                             <div className={styles.inner}>
                                 <Switch>
-                                    <Route path="/" exact component={Settings} />
+                                    <Route
+                                        path="/"
+                                        exact
+                                        component={Settings}
+                                    />
                                     <Route path="/about" component={About} />
                                     <Route path="/limits" component={Limits} />
-                                    <Route path="/userrules" component={UserRules} />
-                                    <Route path="/customfilters" component={CustomFilters} />
-                                    <Route path="/languages" component={Languages} />
+                                    <Route path="/acknowledgements" component={Acknowledgements} />
+                                    <Route
+                                        path="/userrules"
+                                        component={UserRules}
+                                    />
+                                    <Route
+                                        path="/customfilters"
+                                        component={CustomFilters}
+                                    />
+                                    <Route
+                                        path="/languages"
+                                        component={Languages}
+                                    />
                                     <Route />
                                 </Switch>
                                 <Notifications />
@@ -82,12 +97,12 @@ export const OptionsApp = observer(() => {
         </HashRouter>
     );
 
-    return optionsDataReady
-        ? content
-        : (
-            <>
-                <Icons />
-                <LoaderOverlay />
-            </>
-        );
+    return optionsDataReady ? (
+        content
+    ) : (
+        <>
+            <Icons />
+            <LoaderOverlay />
+        </>
+    );
 });

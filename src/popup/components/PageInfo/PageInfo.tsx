@@ -19,7 +19,6 @@ export const PageInfo = observer(() => {
         isAllowlisted,
         isWebSiteTab,
     } = settingsStore;
-
     const getProtectionStatusMessage = (
         filteringEnabled: boolean,
         protectionPauseExpired: boolean,
@@ -45,17 +44,17 @@ export const PageInfo = observer(() => {
             );
         }
         if (filteringEnabled) {
-            return reactTranslator.getMessage('popup_protection_enabled_status');
+            return reactTranslator.getMessage(
+                'popup_protection_enabled_status',
+            );
         }
         return reactTranslator.getMessage('popup_protection_disabled_status');
     };
-
     const message = getProtectionStatusMessage(
         !isAllowlisted,
         refreshAfterResumeProtection && protectionPauseExpiresSec === 0,
         !isWebSiteTab,
     );
-
     const className = cn(styles.mainSection, {
         [styles.sectionDisabled]: isAllowlisted,
     });

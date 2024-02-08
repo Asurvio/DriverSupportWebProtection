@@ -2,7 +2,9 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 16px;
+    background-color: var(--blue-cola);
+    padding: 8.5px 8px 8.5px 12px;
+    width: 100%;
 }
 
 .popupHeaderLogo {
@@ -23,7 +25,10 @@
     height: 28px;
 
     &:hover {
-        background-color: var(--gray4d);
+        /* background-color: var(--steel-blue); */
+        opacity: 0.8;
+        transform: scale(1.2);
+        transition: transform 0.3s ease; 
     }
 
     &:disabled {
@@ -45,7 +50,7 @@
     text-decoration: none;
 
     &:hover {
-        background: var(--grayf3);
+        background: var(--blue-cola);
     }
 
     &:disabled {

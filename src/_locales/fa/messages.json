@@ -21,7 +21,7 @@
         "message": "Persian"
     },
     "options_base_filter": {
-        "message": "فیلتر پایه PageBoost"
+        "message": "فیلتر پایه Driver Support One"
     },
     "options_custom_filters_option": {
         "message": "فیلترهای دستی"
@@ -39,7 +39,7 @@
         "message": "مسدودسازی تبلیغات در این وب‌گاه"
     },
     "options_open_settings": {
-        "message": "تنظیمات PageBoost"
+        "message": "تنظیمات Driver Support One"
     },
     "options_settings_title": {
         "message": "تنظیمات"
@@ -60,7 +60,7 @@
         "message": "GitHub"
     },
     "options_discuss": {
-        "message": "گفتگو درباره PageBoost"
+        "message": "گفتگو درباره Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "همه حقوق محفوظ است."
@@ -81,13 +81,13 @@
         "message": "گزارش یک مشکل..."
     },
     "context_menu_open_options": {
-        "message": "تنظیمات PageBoost..."
+        "message": "تنظیمات Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "وقفه حفاظت PageBoost"
+        "message": "وقفه حفاظت Driver Support One"
     },
     "context_menu_enable_blocking": {
-        "message": "فعالسازی حفاظت PageBoost"
+        "message": "فعالسازی حفاظت Driver Support One"
     },
     "options_add_custom_filter": {
         "message": "افزودن فیلتر دستی"
@@ -156,9 +156,9 @@
         "message": "افزودن"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

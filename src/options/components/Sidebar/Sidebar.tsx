@@ -45,12 +45,6 @@ export const Sidebar = () => {
             <div className={className}>
                 <Icon id={IconId.LOGO} className="sidebar__logo" />
                 <Nav closeSidebar={closeSidebar} />
-                {/* <Notice /> */}
-                <img
-                    src="../../../assets/icons/PC-Cleaning.png"
-                    alt="pc-cleaning"
-                    style={{ bottom: 11, height: 175, position: 'absolute' }}
-                />
             </div>
         </>
     );

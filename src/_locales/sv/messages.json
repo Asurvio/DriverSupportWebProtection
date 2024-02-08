@@ -18,7 +18,7 @@
         "message": "Swedish"
     },
     "options_base_filter": {
-        "message": "PageBoosts grundfilter"
+        "message": "Driver Support One grundfilter"
     },
     "options_custom_filters_option": {
         "message": "Anpassade filter"
@@ -42,7 +42,7 @@
         "message": "Blockera annonser på den här webbplatsen"
     },
     "options_open_settings": {
-        "message": "PageBoostinställningar"
+        "message": "Driver Support One inställningar"
     },
     "options_settings_title": {
         "message": "Inställningar"
@@ -66,7 +66,7 @@
         "message": "Officiell webbplats"
     },
     "options_discuss": {
-        "message": "Diskutera PageBoost"
+        "message": "Diskutera Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "Alla rättigheter förbehållna."
@@ -87,10 +87,10 @@
         "message": "Blockera annonser på denna webbplats..."
     },
     "context_menu_open_options": {
-        "message": "PageBoosts inställningar"
+        "message": "Driver Support One inställningar"
     },
     "context_menu_disable_blocking": {
-        "message": "Pausa PageBoostskyddet"
+        "message": "Pausa Driver Support One-skyddet"
     },
     "options_add_custom_filter": {
         "message": "Lägg till ett eget filter"
@@ -171,9 +171,9 @@
         "message": "%current% av %max%"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

@@ -21,7 +21,7 @@
         "message": "تجريبي"
     },
     "popup_steps_experimental_description": {
-        "message": "يعرف الكيميائيون لدينا طرقًا لترويض تحديات MV3. يعمل PageBoost الآن مع Manifest V3."
+        "message": "يعرف الكيميائيون لدينا طرقًا لترويض تحديات MV3. يعمل Driver Support One الآن مع Manifest V3."
     },
     "popup_steps_new_tech_title": {
         "message": "ابتكارية"
@@ -33,13 +33,13 @@
         "message": "سريع"
     },
     "popup_steps_fast_work_description": {
-        "message": "لقد قمنا بزيادة أداء PageBoost من خلال إعادة هيكلة مكتبات حظر المحتوى الخاصة بنا واستخدام ميزات MV3."
+        "message": "لقد قمنا بزيادة أداء Driver Support One من خلال إعادة هيكلة مكتبات حظر المحتوى الخاصة بنا واستخدام ميزات MV3."
     },
     "popup_steps_v3_manifest_title": {
         "message": "Manifest V3"
     },
     "popup_steps_v3_manifest_description": {
-        "message": "قد تلاحظ نتيجة واحدة فقط لانتقال PageBoost إلى MV3: أداء أفضل."
+        "message": "قد تلاحظ نتيجة واحدة فقط لانتقال Driver Support One إلى MV3: أداء أفضل."
     },
     "popup_learn_more_link": {
         "message": "التعرف على المزيد"
@@ -84,13 +84,13 @@
         "message": "Arabic"
     },
     "options_base_filter": {
-        "message": "فلتر اساسيPageBoost"
+        "message": "فلتر اساسي Driver Support One"
     },
     "options_custom_filters_option": {
         "message": "فلاتر مخصصة"
     },
     "options_custom_filters_option_desc": {
-        "message": "أضف فلاتر مخصصة استناداً إلى قواعد فلترة PageBoost"
+        "message": "أضف فلاتر مخصصة استناداً إلى قواعد فلترة Driver Support One"
     },
     "options_static_filters_limits_by_rules": {
         "message": "لقد وصلت إلى الحد الأقصى من القواعد المضمنة النشطة. لتنشيط القواعد الجديدة ، قم بتعطيل بعض عوامل التصفية المضمنة. <newline><\/newline> <link-to-limits>حدود القاعدة<\/link-to-limits>"
@@ -123,7 +123,7 @@
         "message": "قم بحظر الإعلانات على هذا الموقع"
     },
     "options_open_settings": {
-        "message": "إعدادات PageBoost"
+        "message": "إعدادات Driver Support One"
     },
     "options_settings_title": {
         "message": "الإعدادات"
@@ -132,7 +132,7 @@
         "message": "حول"
     },
     "options_about_product": {
-        "message": "إضافة PageBoost للمتصفح الاصدار 3"
+        "message": "إضافة Driver Support One للمتصفح الاصدار "
     },
     "options_about_version": {
         "message": "الإصدار"
@@ -150,13 +150,13 @@
         "message": "الموقع الرسمي"
     },
     "options_discuss": {
-        "message": "PageBoost مناقشه"
+        "message": "Driver Support One مناقشه"
     },
     "options_about_rights_reserved": {
         "message": ".جميع الحقوق محفوظه"
     },
     "options_notice_program": {
-        "message": "هذة الإضافة هي مشروع تجريبي من قبل فريق PageBoost"
+        "message": "هذة الإضافة هي مشروع تجريبي من قبل فريق Driver Support One"
     },
     "options_notice_compare_link": {
         "message": "التعرف على المزيد"
@@ -198,13 +198,13 @@
         "message": "التبليغ عن مشكلة..."
     },
     "context_menu_open_options": {
-        "message": "PageBoost إعدادات ..."
+        "message": "Driver Support One إعدادات ..."
     },
     "context_menu_disable_blocking": {
-        "message": "إيقاف حماية PageBoost"
+        "message": "إيقاف حماية Driver Support One"
     },
     "context_menu_enable_blocking": {
-        "message": "تشغيل حماية PageBoost"
+        "message": "تشغيل حماية Driver Support One"
     },
     "options_add_custom_filter": {
         "message": "إضافة فلتر مخصص"
@@ -342,9 +342,9 @@
         "message": "حدود القاعدة"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Suppot One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

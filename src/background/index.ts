@@ -21,11 +21,13 @@ chrome.runtime.onInstalled.addListener(async ({ reason }) => {
     // Enable language filter only on first install
     if (reason === chrome.runtime.OnInstalledReason.INSTALL) {
         await tsWebExtensionWrapper.enableCurrentLanguagesFilters();
-        chrome.tabs.create({
-            url: 'options.html#welcome',
-        });
+        // chrome.tabs.create({
+        //     url: 'https://www.pageboost.com/welcome/',
+        // });
     }
 });
+
+// chrome.runtime.setUninstallURL('https://www.pageboost.com/goodbye/');
 
 // TODO: do not use same selector twice
 // https://uploads.adguard.com/Image_2022-06-01_17-22-29.png

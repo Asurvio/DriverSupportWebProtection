@@ -21,7 +21,7 @@
         "message": "Indonesian"
     },
     "options_base_filter": {
-        "message": "Penyaring dasar PageBoost"
+        "message": "Penyaring dasar Driver Support One"
     },
     "options_custom_filters_option": {
         "message": "Kustom filter"
@@ -39,7 +39,7 @@
         "message": "Blok iklan di website ini"
     },
     "options_open_settings": {
-        "message": "Pengaturan PageBoost"
+        "message": "Pengaturan Driver Support One"
     },
     "options_settings_title": {
         "message": "Pengaturan"
@@ -63,7 +63,7 @@
         "message": "Situs resmi"
     },
     "options_discuss": {
-        "message": "Diskusikan PageBoost"
+        "message": "Diskusikan Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "Hak cipta dilindungi oleh undang-undag"
@@ -84,13 +84,13 @@
         "message": "Lapor masalah..."
     },
     "context_menu_open_options": {
-        "message": "Pengaturan PageBoost..."
+        "message": "Pengaturan Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "Jeda perlindungan PageBoost"
+        "message": "Jeda perlindungan Driver Support One"
     },
     "context_menu_enable_blocking": {
-        "message": "Aktifkan perlindungan PageBoost"
+        "message": "Aktifkan perlindungan Driver Support One"
     },
     "options_add_custom_filter": {
         "message": "Tambah filter kustom"
@@ -153,9 +153,9 @@
         "message": "Batal"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

@@ -1,4 +1,4 @@
-import React, { useContext, useLayoutEffect } from 'react';
+import React, { useContext, useEffect, useLayoutEffect } from 'react';
 import { observer } from 'mobx-react';
 import { CSSTransition, SwitchTransition } from 'react-transition-group';
 
@@ -10,8 +10,6 @@ import { useEventListener } from 'Common/hooks/useEventListener';
 
 import { rootStore } from '../../stores';
 import { Header } from '../Header';
-import { Footer } from '../Footer';
-import { Wizard } from '../Wizard';
 import { Loader as InitialLoader } from '../Loader';
 import { LoaderOverlay } from '../LoaderOverlay';
 import { LimitsExceed } from '../LimitsExceed';
@@ -22,7 +20,6 @@ import styles from './PopupApp.module.pcss';
 
 enum CONTENT_KEYS {
     LOADER,
-    WIZARD,
     CONTENT,
 }
 
@@ -33,18 +30,22 @@ export const PopupApp = observer(() => {
         setLoader,
         getPopupData,
         popupDataReady,
-        wizardEnabled,
         protectionEnabled,
         setProtectionValue,
         setProtectionPauseExpiresValue,
-        settings: {
-            [SETTINGS_NAMES.FILTERS_CHANGED]: wasEnabledIds,
-        },
+        settings: { [SETTINGS_NAMES.FILTERS_CHANGED]: wasEnabledIds },
     } = settingsStore;
 
     useLayoutEffect(() => {
         getPopupData();
     }, []);
+
+    useEffect(() => {
+        chrome.tabs.query({ active: true, lastFocusedWindow: true }, (tabs) => {
+            const [page] = tabs;
+            localStorage.setItem('currentPage', page.url || '');
+        });
+    });
 
     useEventListener('popup', {
         [NOTIFIER_EVENTS.SET_RULES]: async () => {
@@ -64,21 +65,17 @@ export const PopupApp = observer(() => {
 
     const isLimitsExceed = wasEnabledIds.length > 0;
 
-    const mainContent = protectionEnabled
-        ? <EnabledProtectionScreen />
-        : <DisabledProtectionScreen />;
+    const mainContent = protectionEnabled ? (
+        <EnabledProtectionScreen />
+    ) : (
+        <DisabledProtectionScreen />
+    );
 
-    const footer = isLimitsExceed
-        ? <LimitsExceed />
-        : <Footer />;
+    const footer = isLimitsExceed ? <LimitsExceed /> : '';
 
     const getContentKey = (): CONTENT_KEYS => {
         if (!popupDataReady) {
             return CONTENT_KEYS.LOADER;
-        }
-
-        if (wizardEnabled) {
-            return CONTENT_KEYS.WIZARD;
         }
 
         return CONTENT_KEYS.CONTENT;
@@ -95,23 +92,13 @@ export const PopupApp = observer(() => {
                     </div>
                 );
             }
-            case CONTENT_KEYS.WIZARD: {
-                return (
-                    <div className={styles.popup} key={CONTENT_KEYS.WIZARD}>
-                        <Icons />
-                        <Wizard />
-                    </div>
-                );
-            }
             case CONTENT_KEYS.CONTENT:
-            default:
-            {
+            default: {
                 return (
                     <div className={styles.popup} key={CONTENT_KEYS.CONTENT}>
                         <Icons />
-                        {!protectionEnabled && <div className={styles.overlay} />}
                         <Header />
-                        <main className={styles.main}>{ mainContent }</main>
+                        <main className={styles.main}>{mainContent}</main>
                         {footer}
                         <LoaderOverlay />
                     </div>
@@ -124,10 +111,7 @@ export const PopupApp = observer(() => {
     const section = getContent(sectionKey);
 
     return (
-        <WithTimeout
-            dummy={<div className={styles.popup} />}
-            timeoutMS={50}
-        >
+        <WithTimeout dummy={<div className={styles.popup} />} timeoutMS={50}>
             <SwitchTransition>
                 <CSSTransition
                     timeout={300}
@@ -137,7 +121,7 @@ export const PopupApp = observer(() => {
                     unmountOnExit
                     classNames="fade"
                 >
-                    { section }
+                    {section}
                 </CSSTransition>
             </SwitchTransition>
         </WithTimeout>

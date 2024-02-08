@@ -7,8 +7,8 @@
     margin-right: -50%;
     transform: translate(-50%, -50%);
     max-width: 400px;
-    background-color: var(--bg-main);
-    color: var(--white);
+    background-color: var(--white);
+    color: var(--gray-option);
     padding: 32px;
     box-shadow: 0 0 0 1px var(--gray4d);
     border-radius: 4px;
@@ -42,7 +42,7 @@
     font-weight: 620;
     font-size: 1.5rem;
     line-height: 1.87rem;
-    color: var(--white);
+    color: var(--blue-head);
 }
 
 .closeIcon {
@@ -66,8 +66,9 @@
     box-sizing: border-box;
     font-size: 1rem;
     line-height: 1.12rem;
-    color: var(--white);
     border-radius: 8px;
+    background-color: var(--white);
+    color: var(--gray-option);
 }
 
 .modalSelectIcon {
@@ -90,11 +91,11 @@
 }
 
 .modalInput {
-    color: var(--white);
+    color: var(--gray-option);
     padding: 14px 11px;
     width: 335px;
     height: 48px;
-    background: var(--grayDark);
+    background: var(--white);
     border: 1px solid var(--gray700);
     border-radius: 8px;
     box-sizing: border-box;
@@ -103,7 +104,8 @@
     line-height: 1.12rem;
 
     &::placeholder {
-        color: var(--gray700);
+        color: var(--gray-option);
+        opacity: 0.8;
     }
 }
 

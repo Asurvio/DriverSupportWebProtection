@@ -21,7 +21,7 @@
         "message": "实验性"
     },
     "popup_steps_experimental_description": {
-        "message": "我们的工程师知道如何解决 MV3 的相关问题。 现在 PageBoost 可与 Manifest V3 一起使用了。"
+        "message": "我们的工程师知道如何解决 MV3 的相关问题。 现在 Driver Support One 可与 Manifest V3 一起使用了。"
     },
     "popup_steps_new_tech_title": {
         "message": "进阶"
@@ -33,13 +33,13 @@
         "message": "快速"
     },
     "popup_steps_fast_work_description": {
-        "message": "我们通过代码重构和使用 MV3 功能提高了 PageBoost 的性能。"
+        "message": "我们通过代码重构和使用 MV3 功能提高了 Driver Support One 的性能。"
     },
     "popup_steps_v3_manifest_title": {
         "message": "Manifest V3"
     },
     "popup_steps_v3_manifest_description": {
-        "message": "您可能会注意到 PageBoost 过渡到 MV3 后，拥有更好的性能。"
+        "message": "您可能会注意到 Driver Support One 过渡到 MV3 后，拥有更好的性能。"
     },
     "popup_learn_more_link": {
         "message": "了解更多"
@@ -84,13 +84,13 @@
         "message": "Chinese Simplified"
     },
     "options_base_filter": {
-        "message": "PageBoost 基础过滤器"
+        "message": "Driver Support One 基础过滤器"
     },
     "options_custom_filters_option": {
         "message": "自定义过滤器"
     },
     "options_custom_filters_option_desc": {
-        "message": "根据 PageBoost 过滤规则添加自定义过滤器"
+        "message": "根据 Driver Support One 过滤规则添加自定义过滤器"
     },
     "options_user_rules_option": {
         "message": "用户过滤器"
@@ -114,7 +114,7 @@
         "message": "拦截此网站上的广告"
     },
     "options_open_settings": {
-        "message": "PageBoost 设置"
+        "message": "Driver Support One 设置"
     },
     "options_settings_title": {
         "message": "设置"
@@ -138,13 +138,13 @@
         "message": "官方网站"
     },
     "options_discuss": {
-        "message": "讨论 PageBoost"
+        "message": "讨论 Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "保留所有版权。"
     },
     "options_notice_program": {
-        "message": "这个扩展是 PageBoost 团队的一个实验项目"
+        "message": "这个扩展是 Driver Support One 团队的一个实验项目"
     },
     "options_notice_compare_link": {
         "message": "了解更多"
@@ -183,13 +183,13 @@
         "message": "报告问题 ..."
     },
     "context_menu_open_options": {
-        "message": "PageBoost 设置..."
+        "message": "Driver Support One 设置..."
     },
     "context_menu_disable_blocking": {
-        "message": "暂停 PageBoost 保护"
+        "message": "暂停 Driver Support One 保护"
     },
     "context_menu_enable_blocking": {
-        "message": "开启 PageBoost 防护"
+        "message": "开启 Driver Support One 防护"
     },
     "options_add_custom_filter": {
         "message": "添加自定义过滤器"
@@ -321,9 +321,9 @@
         "message": "两者对比"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

@@ -30,7 +30,7 @@
         "message": "Блокирай рекламите на този сайт"
     },
     "options_open_settings": {
-        "message": "PageBoost настройки"
+        "message": "Driver Support One настройки"
     },
     "options_settings_title": {
         "message": "Настройки"
@@ -63,10 +63,10 @@
         "message": "Блокирай рекламата на този сайт..."
     },
     "context_menu_open_options": {
-        "message": "PageBoost настройки..."
+        "message": "Driver Support One настройки..."
     },
     "context_menu_disable_blocking": {
-        "message": "Пауза на защитата PageBoost"
+        "message": "Пауза на защитата Driver Support One"
     },
     "options_add_custom_filter": {
         "message": "Добави персонализиран филтър"
@@ -129,9 +129,9 @@
         "message": "Отказ"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

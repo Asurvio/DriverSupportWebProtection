@@ -18,7 +18,7 @@
         "message": "Ծրագրի մասին"
     },
     "options_open_settings": {
-        "message": "PageBoost-ի կարգավորումներ"
+        "message": "Driver Support One-ի կարգավորումներ"
     },
     "options_settings_title": {
         "message": "Կարգավորումներ"
@@ -42,10 +42,10 @@
         "message": "Արգելափակել գովազդը այս կայքում..."
     },
     "context_menu_open_options": {
-        "message": "PageBoost-ի կարգավորումներ..."
+        "message": "Driver Support One-ի կարգավորումներ..."
     },
     "context_menu_disable_blocking": {
-        "message": "Դադարեցնել PageBoost-ի պաշտպանությունը"
+        "message": "Դադարեցնել Driver Support One-ի պաշտպանությունը"
     },
     "options_add_custom_filter": {
         "message": "Ավելացնել հարմարեցված զտիչ"
@@ -105,9 +105,9 @@
         "message": "Չեղարկել"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

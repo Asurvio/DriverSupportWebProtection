@@ -9,13 +9,13 @@
         "message": "Bloca els anuncis en aquest lloc web"
     },
     "options_open_settings": {
-        "message": "Opcions d'PageBoost"
+        "message": "Opcions d'Driver Support One"
     },
     "options_github": {
         "message": "GitHub"
     },
     "options_discuss": {
-        "message": "Parleu sobre PageBoost"
+        "message": "Parleu sobre Driver Support One"
     },
     "popup_settings_report_issue": {
         "message": "Informar d’un problema"
@@ -24,15 +24,15 @@
         "message": "Filtreu els anuncis de publicitat en aquesta pàgina web..."
     },
     "context_menu_open_options": {
-        "message": "Opcions d'PageBoost..."
+        "message": "Opcions d'Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "Atureu la protecció d'PageBoost"
+        "message": "Atureu la protecció d'Driver Support One"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

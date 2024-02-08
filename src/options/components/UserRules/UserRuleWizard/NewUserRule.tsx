@@ -49,7 +49,7 @@ export const NewUserRule = observer(() => {
                         <option
                             value={UserRuleWizardNewType.BLOCKING}
                         >
-                            {translator.getMessage('options_user_rule_wizard_blocking')}
+                            {translator.getMessage('options_user_rule_wizard_blocking_content_request')}
                         </option>
                         <option
                             value={UserRuleWizardNewType.UNBLOCKING}

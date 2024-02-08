@@ -21,25 +21,25 @@
         "message": "Experimentell"
     },
     "popup_steps_experimental_description": {
-        "message": "Unsere Spezialisten kennen die Wege, um die Herausforderungen von MV3 zu meistern. Jetzt funktioniert PageBoost mit Manifest V3."
+        "message": "Unsere Spezialisten kennen die Wege, um die Herausforderungen von MV3 zu meistern. Jetzt funktioniert Driver Support One mit Manifest V3."
     },
     "popup_steps_new_tech_title": {
         "message": "Innovativ"
     },
     "popup_steps_new_tech_description": {
-        "message": "PageBoost verwendet erstklassige Ansätze zur Anpassung an das sich schnell entwickelnde und immer noch zu verbessernde MV3-Framework."
+        "message": "Driver Support One verwendet erstklassige Ansätze zur Anpassung an das sich schnell entwickelnde und immer noch zu verbessernde MV3-Framework."
     },
     "popup_steps_fast_work_title": {
         "message": "Schnell"
     },
     "popup_steps_fast_work_description": {
-        "message": "Wir haben die Leistung von PageBoost erhöht, indem wir unsere Bibliotheken zum Sperren von Inhalten überarbeitet und MV3-Funktionen verwendet haben."
+        "message": "Wir haben die Leistung von Driver Support One erhöht, indem wir unsere Bibliotheken zum Sperren von Inhalten überarbeitet und MV3-Funktionen verwendet haben."
     },
     "popup_steps_v3_manifest_title": {
         "message": "Manifest V3"
     },
     "popup_steps_v3_manifest_description": {
-        "message": "Sie werden vermutlich nur ein Ergebnis der Umstellung von PageBoost auf MV3 bemerken: eine noch bessere Leistung."
+        "message": "Sie werden vermutlich nur ein Ergebnis der Umstellung von Driver Support One auf MV3 bemerken: eine noch bessere Leistung."
     },
     "popup_learn_more_link": {
         "message": "Mehr erfahren"
@@ -84,13 +84,13 @@
         "message": "German"
     },
     "options_base_filter": {
-        "message": "PageBoost — Basisfilter"
+        "message": "Driver Support One — Basisfilter"
     },
     "options_custom_filters_option": {
         "message": "Benutzerdefinierte Filter"
     },
     "options_custom_filters_option_desc": {
-        "message": "Benutzerdefinierte Filter basierend auf PageBoost-Filterregeln hinzufügen"
+        "message": "Benutzerdefinierte Filter basierend auf Driver Support One-Filterregeln hinzufügen"
     },
     "options_user_rules_option": {
         "message": "Benutzerregeln"
@@ -114,7 +114,7 @@
         "message": "Werbung auf dieser Website sperren"
     },
     "options_open_settings": {
-        "message": "PageBoost-Einstellungen"
+        "message": "Driver Support One-Einstellungen"
     },
     "options_settings_title": {
         "message": "Einstellungen"
@@ -138,13 +138,13 @@
         "message": "Offizielle Website"
     },
     "options_discuss": {
-        "message": "PageBoost besprechen"
+        "message": "Driver Support One besprechen"
     },
     "options_about_rights_reserved": {
         "message": "Alle Rechte vorbehalten."
     },
     "options_notice_program": {
-        "message": "Diese Erweiterung ist ein experimentelles Projekt des PageBoost-Teams"
+        "message": "Diese Erweiterung ist ein experimentelles Projekt des Driver Support One-Teams"
     },
     "options_notice_compare_link": {
         "message": "Mehr erfahren"
@@ -183,13 +183,13 @@
         "message": "Problem melden…"
     },
     "context_menu_open_options": {
-        "message": "PageBoost-Einstellungen …"
+        "message": "Driver Support One-Einstellungen …"
     },
     "context_menu_disable_blocking": {
-        "message": "PageBoost-Schutz anhalten"
+        "message": "Driver Support One-Schutz anhalten"
     },
     "context_menu_enable_blocking": {
-        "message": "PageBoost-Schutz aktivieren"
+        "message": "Driver Support One-Schutz aktivieren"
     },
     "options_add_custom_filter": {
         "message": "Eigenen Filter hinzufügen"
@@ -321,9 +321,9 @@
         "message": "Vergleichen"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

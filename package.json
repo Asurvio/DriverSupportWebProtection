@@ -1,8 +1,8 @@
 {
     "name": "browser-extension-v3",
-    "version": "0.3.13",
+    "version": "4.0.0",
     "private": true,
-    "description": "AdGuard browser extension",
+    "description": "Driver Support One extension",
     "author": "adguard@adguard.com",
     "license": "GPL-3.0",
     "scripts": {
@@ -16,12 +16,6 @@
         "test": "jest",
         "locales": "ts-node scripts/locales",
         "increment": "yarn version --patch --no-git-tag-version"
-    },
-    "husky": {
-        "hooks": {
-            "pre-commit": "yarn lint",
-            "pre-push": "yarn test"
-        }
     },
     "dependencies": {
         "@adguard/assistant": "^4.3.57",

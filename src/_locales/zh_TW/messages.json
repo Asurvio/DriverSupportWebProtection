@@ -1,6 +1,6 @@
 {
     "name": {
-        "message": "PageBoost 廣告封鎖器 MV3 實驗性"
+        "message": "Driver Support One 廣告封鎖器 MV3 實驗性"
     },
     "popup_protection_enabled_status": {
         "message": "防護被啟用"
@@ -48,7 +48,7 @@
         "message": "Chinese Traditional"
     },
     "options_base_filter": {
-        "message": "PageBoost 基本過濾器"
+        "message": "Driver Support One 基本過濾器"
     },
     "options_custom_filters_option": {
         "message": "自訂的過濾器"
@@ -75,7 +75,7 @@
         "message": "封鎖於此網站上之廣告"
     },
     "options_open_settings": {
-        "message": "PageBoost 設定"
+        "message": "Driver Support One 設定"
     },
     "options_settings_title": {
         "message": "設定"
@@ -99,7 +99,7 @@
         "message": "官方的網站"
     },
     "options_discuss": {
-        "message": "討論 PageBoost"
+        "message": "討論 Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "保留所有的權利。"
@@ -129,13 +129,13 @@
         "message": "報告問題…"
     },
     "context_menu_open_options": {
-        "message": "PageBoost 設定…"
+        "message": "Driver Support One 設定…"
     },
     "context_menu_disable_blocking": {
-        "message": "暫停 PageBoost 防護"
+        "message": "暫停 Driver Support One 防護"
     },
     "context_menu_enable_blocking": {
-        "message": "啟用 PageBoost 防護"
+        "message": "啟用 Driver Support One 防護"
     },
     "options_add_custom_filter": {
         "message": "新增自訂的過濾器"
@@ -270,6 +270,6 @@
         "message": "過濾器被重新啟動。"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

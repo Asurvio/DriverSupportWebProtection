@@ -7,7 +7,7 @@
 
     &:checked ~ .checkboxLabel {
         --translateX: 20px;
-        --bg-color: var(--green);
+        --bg-color: var(--button-blue);
     }
 }
 
@@ -45,11 +45,12 @@
 
     &.checked { /*switch backer*/
         &:after {
-            background: #BCE5C0;
+            background: var(--button-blue);
+            opacity: 0.5;
         }
 
         &:before { /*switch handle*/
-            background: #0FAC21;
+            background: var(--button-blue);
         }
     }
 }

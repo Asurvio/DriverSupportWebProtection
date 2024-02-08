@@ -21,7 +21,7 @@
         "message": "Norwegian"
     },
     "options_base_filter": {
-        "message": "PageBoosts hovedfilter"
+        "message": "Driver Support One hovedfilter"
     },
     "options_custom_filters_option": {
         "message": "Selvvalgte lister"
@@ -39,7 +39,7 @@
         "message": "Blokker reklamer på dette nettstedet"
     },
     "options_open_settings": {
-        "message": "PageBoost-innstillinger"
+        "message": "Driver Support One-innstillinger"
     },
     "options_settings_title": {
         "message": "Innstillinger"
@@ -63,7 +63,7 @@
         "message": "Offisielt nettsted"
     },
     "options_discuss": {
-        "message": "Diskuter PageBoost"
+        "message": "Diskuter Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "Alle rettigheter reservert."
@@ -84,13 +84,13 @@
         "message": "Meld inn et problem …"
     },
     "context_menu_open_options": {
-        "message": "PageBoost-innstillinger..."
+        "message": "Driver Support One-innstillinger..."
     },
     "context_menu_disable_blocking": {
-        "message": "Pause PageBoost-beskyttelse"
+        "message": "Pause Driver Support One-beskyttelse"
     },
     "context_menu_enable_blocking": {
-        "message": "Skru på PageBoost-beskyttelse"
+        "message": "Skru på Driver Support One-beskyttelse"
     },
     "options_add_custom_filter": {
         "message": "Legg til egendefinert filter"
@@ -153,9 +153,9 @@
         "message": "Avbryt"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

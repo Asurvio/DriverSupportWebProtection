@@ -1,9 +1,9 @@
 {
   "name": {
-    "message": "PageBoost"
+    "message": "Driver Suppot One"
   },
   "description": {
-    "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+    "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
   },
   "popup_protection_enabled_status": {
     "message": "Protection is enabled"
@@ -27,7 +27,7 @@
     "message": "Experimental"
   },
   "popup_steps_experimental_description": {
-    "message": "Our alchemists know the ways to tame the MV3 challenges. Now PageBoost works with Manifest V3."
+    "message": "Our alchemists know the ways to tame the MV3 challenges. Now Driver Support One works with Manifest V3."
   },
   "popup_steps_new_tech_title": {
     "message": "Innovative"
@@ -39,13 +39,13 @@
     "message": "Fast"
   },
   "popup_steps_fast_work_description": {
-    "message": "We’ve increased PageBoost’s performance by refactoring our content-blocking libraries and using MV3 features."
+    "message": "We’ve increased Driver Support One performance by refactoring our content-blocking libraries and using MV3 features."
   },
   "popup_steps_v3_manifest_title": {
     "message": "Manifest V3"
   },
   "popup_steps_v3_manifest_description": {
-    "message": "You might notice only one result of PageBoost’s transition to MV3: even better performance."
+    "message": "You might notice only one result of Driver Support One transition to MV3: even better performance."
   },
   "popup_learn_more_link": {
     "message": "Learn more"
@@ -58,6 +58,27 @@
   },
   "popup_wizard_start_button": {
     "message": "Shields up!"
+  },
+  "popup_well_done": {
+    "message": "Well done!"
+  },
+  "popup_browsing_faster": {
+    "message": "You are now browsing faster and safer with Driver Support One."
+  },
+  "popup_done": {
+    "message": "Done"
+  },
+  "popup_marketwatch": {
+    "message": "marketwatch.com"
+  },
+  "popup_pause_for_sixty_seconds": {
+    "message": "Pause For 60 Seconds"
+  },
+  "popup_report_an_issue": {
+    "message": "Report An Issue"
+  },
+  "popup_works_with_manifest": {
+    "message": "Works with Manifest V3"
   },
   "options_block_ads_option": {
     "message": "Block ads"
@@ -93,13 +114,13 @@
     "message": "English"
   },
   "options_base_filter": {
-    "message": "PageBoost Base filter"
+    "message": "Driver Support One Base filter"
   },
   "options_custom_filters_option": {
     "message": "Custom filters"
   },
   "options_custom_filters_option_desc": {
-    "message": "Add custom filters based on PageBoost filtering rules"
+    "message": "Add custom filters based on Driver Support One filtering rules"
   },
   "options_static_filters_limits_by_rules": {
     "message": "You’ve reached the limit of active built-in rules. To activate new rules, disable some built-in filters. <newline></newline> <link-to-limits>Rule limits</link-to-limits>"
@@ -150,7 +171,7 @@
     "message": "Block ads on this website"
   },
   "options_open_settings": {
-    "message": "PageBoost settings"
+    "message": "Driver Support One settings"
   },
   "options_settings_title": {
     "message": "Settings"
@@ -159,7 +180,7 @@
     "message": "About"
   },
   "options_about_product": {
-    "message": "PageBoost Browser extension MV3"
+    "message": "Driver Support One Browser extension MV3"
   },
   "options_about_version": {
     "message": "Version"
@@ -173,17 +194,23 @@
   "options_github": {
     "message": "GitHub"
   },
+  "options_EULA": {
+    "message": "EULA"
+  },
+  "options_uninstall_instructions": {
+    "message": "Uninstall Instructions"
+  },
   "options_site": {
     "message": "Official website"
   },
   "options_discuss": {
-    "message": "Discuss PageBoost"
+    "message": "Discuss Driver Support One"
   },
   "options_about_rights_reserved": {
     "message": "All rights reserved."
   },
   "options_notice_program": {
-    "message": "This extension is an experimental project by the PageBoost team"
+    "message": "This extension is an experimental project by the Driver Support One team"
   },
   "options_notice_compare_link": {
     "message": "Learn more"
@@ -204,13 +231,13 @@
     "message": "Protection is disabled"
   },
   "popup_protection_will_be_resumed_after": {
-    "message": "Resuming in %count% sec"
+    "message": "Protection will resume in %count% seconds"
   },
   "popup_protection_paused_for_all": {
     "message": "for all websites"
   },
   "popup_protection_resume_now": {
-    "message": "Resume now"
+    "message": "Resume Now"
   },
   "popup_limits_warning": {
     "message": "The browser has modified the list of active built-in filters."
@@ -231,13 +258,13 @@
     "message": "Report an issue..."
   },
   "context_menu_open_options": {
-    "message": "PageBoost settings..."
+    "message": "Driver Support One settings..."
   },
   "context_menu_disable_blocking": {
-    "message": "Pause PageBoost protection"
+    "message": "Pause Driver Support One protection"
   },
   "context_menu_enable_blocking": {
-    "message": "Enable PageBoost protection"
+    "message": "Enable Driver Support One protection"
   },
   "options_add_custom_filter": {
     "message": "Add custom filter"
@@ -311,6 +338,9 @@
   "options_user_rule_status_website_blocked": {
     "message": "Domain is blocked"
   },
+  "options_user_rule_status_website_content_request_blocked": {
+    "message": " Content requests are blocked"
+  },
   "options_user_rule_status_website_allowed": {
     "message": "Domain is unblocked"
   },
@@ -325,6 +355,9 @@
   },
   "options_user_rule_wizard_blocking": {
     "message": "Block domain"
+  },
+  "options_user_rule_wizard_blocking_content_request": {
+    "message": "Block Content Request"
   },
   "options_user_rule_wizard_unblocking": {
     "message": "Add domain to allowlist"
@@ -438,13 +471,13 @@
     "message": "Option 1. Delete unnecessary ad-blocking extensions from your browser. To reactivate the filters mentioned in the \"Filters enabled before the update\" section, click <button>reactivate filters</button>."
   },
   "options_limits_warning_desc_app": {
-    "message": "Option 2. Install the PageBoost Ad Blocker app: it has no restrictions on filtering rules. <link>Get PageBoost Ad Blocker</link>"
+    "message": "Option 2. Install the Driver Support One Ad Blocker app: it has no restrictions on filtering rules. <link>Get Driver Support One Ad Blocker</link>"
   },
   "options_limits_warning_desc_close": {
     "message": "Option 3. If you're satisfied with the currently enabled default filter(s), <button>close this warning</button>."
   },
   "options_nav_better_than_extension": {
-    "message": "Unlike the extension, the PageBoost app blocks ads with no limitations."
+    "message": "Unlike the extension, the Driver Support One app blocks ads with no limitations."
   },
   "options_nav_compare": {
     "message": "Compare"
@@ -488,79 +521,28 @@
   "options_limits_static_filters_limit_still_exceed": {
     "message": "Impossible to reactivate the filters: the rule limit is still exceeded."
   },
-  "welcome_title": {
-    "message": "PageBoost"
+  "report_issue_report_issue": {
+    "message": "Report An Issue"
   },
-  "welcome_title_installed": {
-    "message": " is installed successfully"
+  "report_issue_what_issue": {
+    "message": "What issue are you experiencing?"
   },
-  "welcome_description": {
-    "message": "Welcome, "
+  "report_issue_description_issue": {
+    "message": "Please enter a brief description of your issue."
   },
-  "welcome_description_surfing": {
-    "message": "you’re now surfing the"
+  "report_issue_submit": {
+    "message": "Submit"
   },
-  "welcome_completely": {
-    "message": "web completely "
+  "thanks_modal_title": {
+    "message": "Thank you!"
   },
-  "welcome_ad_tracker_free": {
-    "message": "Ad & Tracker-Free!"
+  "thanks_modal_description": {
+    "message": "A member of our customer service team will respond as soon as possible."
   },
-  "welcome_follow_instructions": {
-    "message": "To complete the setup, follow the instructions to the right."
+  "thanks_modal_close_button": {
+    "message": "Close"
   },
-  "welcome_open_anytime": {
-    "message": "Open anytime by clicking the PageBoost icon"
-  },
-  "welcome_click_the": {
-    "message": "Click the "
-  },
-  "welcome_icon_open": {
-    "message": "icon to open the PageBoost extension"
-  },
-  "welcome_ads_blocked": {
-    "message": "See how many Ads and Trackers you’ve blocked."
-  },
-  "welcome_save_time": {
-    "message": "Save time, data and enjoy a faster web experience."
-  },
-  "welcome_avg": {
-    "message": "Avg. "
-  },
-  "welcome_faster_page": {
-    "message": "faster page loads"
-  },
-  "welcome_less_data": {
-    "message": "less data used"
-  },
-  "welcome_uninstall_instructions": {
-    "message": "Uninstall Instructions"
-  },
-  "welcome_eula": {
-    "message": "EULA"
-  },
-  "welcome_privacy_policy": {
-    "message": "Privacy Policy"
-  },
-  "welcome_click_extension": {
-    "message": "Click the Extensions icon"
-  },
-  "welcome_show_toolbar": {
-    "message": "Click ‘Show in Toolbar’"
-  },
-  "welcome_click_pageboost": {
-    "message": "Click on PageBoost"
-  },
-  "welcome_1": {
-    "message": "1."
-  },
-  "welcome_2": {
-    "message": "2."
-  },
-  "welcome_3": {
-    "message": "3."
-  },
-  "welcome_page_title": {
-    "message": "Welcome"
+  "acknowledgements_title": {
+    "message": "Acknowledgments"
   }
 }

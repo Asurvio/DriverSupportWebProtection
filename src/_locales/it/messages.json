@@ -21,7 +21,7 @@
         "message": "Sperimentale"
     },
     "popup_steps_experimental_description": {
-        "message": "I nostri alchimisti conoscono i modi per domare le sfide MV3. Ora PageBoost funziona con Manifest V3."
+        "message": "I nostri alchimisti conoscono i modi per domare le sfide MV3. Ora Driver Support One funziona con Manifest V3."
     },
     "popup_steps_new_tech_title": {
         "message": "Innovativo"
@@ -33,13 +33,13 @@
         "message": "Veloce"
     },
     "popup_steps_fast_work_description": {
-        "message": "Abbiamo aumentato le prestazioni di PageBoost rifattorizzando le nostre librerie di blocco dei contenuti e utilizzando le funzionalità di MV3."
+        "message": "Abbiamo aumentato le prestazioni di Driver Support One rifattorizzando le nostre librerie di blocco dei contenuti e utilizzando le funzionalità di MV3."
     },
     "popup_steps_v3_manifest_title": {
         "message": "Manifesto V3"
     },
     "popup_steps_v3_manifest_description": {
-        "message": "Potreste notare un solo risultato del passaggio di PageBoost a MV3: prestazioni ancora migliori."
+        "message": "Potreste notare un solo risultato del passaggio di Driver Support One a MV3: prestazioni ancora migliori."
     },
     "popup_learn_more_link": {
         "message": "Scopri di più"
@@ -84,13 +84,13 @@
         "message": "Italian"
     },
     "options_base_filter": {
-        "message": "Filtro PageBoost di Base"
+        "message": "Filtro Driver Support One di Base"
     },
     "options_custom_filters_option": {
         "message": "Filtri personalizzati"
     },
     "options_custom_filters_option_desc": {
-        "message": "Aggiungi filtri personalizzati in base alle regole di filtraggio di PageBoost"
+        "message": "Aggiungi filtri personalizzati in base alle regole di filtraggio di Driver Support One"
     },
     "options_user_rules_option": {
         "message": "Regole utente"
@@ -114,7 +114,7 @@
         "message": "Blocca annunci su questo sito web"
     },
     "options_open_settings": {
-        "message": "Impostazioni di PageBoost"
+        "message": "Impostazioni di Driver Support One"
     },
     "options_settings_title": {
         "message": "Impostazioni"
@@ -138,13 +138,13 @@
         "message": "Sito web ufficiale"
     },
     "options_discuss": {
-        "message": "Discuti di PageBoost"
+        "message": "Discuti di Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "Tutti i diritti riservati."
     },
     "options_notice_program": {
-        "message": "Questa estensione è un progetto sperimentale del team di PageBoost"
+        "message": "Questa estensione è un progetto sperimentale del team di Driver Support One"
     },
     "options_notice_compare_link": {
         "message": "Scopri di più"
@@ -183,13 +183,13 @@
         "message": "Segnala un problema..."
     },
     "context_menu_open_options": {
-        "message": "Impostazioni di PageBoost..."
+        "message": "Impostazioni di Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "Sospendi protezione di PageBoost"
+        "message": "Sospendi protezione di Driver Support One"
     },
     "context_menu_enable_blocking": {
-        "message": "Attiva protezione PageBoost"
+        "message": "Attiva protezione Driver Support One"
     },
     "options_add_custom_filter": {
         "message": "Aggiungi un filtro personalizzato"
@@ -339,9 +339,9 @@
         "message": "Impossibile riattivare i filtri: il limite della regola è ancora superato."
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

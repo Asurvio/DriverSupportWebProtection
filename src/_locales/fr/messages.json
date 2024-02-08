@@ -1,9 +1,9 @@
 {
     "name": {
-        "message": "PageBoost AdBlocker MV3 Expérimental"
+        "message": "Driver Support One MV3 Expérimental"
     },
     "description": {
-        "message": "Extension de navigateur PageBoost conçue sur le Manifeste V3."
+        "message": "Extension de navigateur Driver Support One conçue sur le Manifeste V3."
     },
     "popup_protection_enabled_status": {
         "message": "La protection est activée"
@@ -27,7 +27,7 @@
         "message": "Expérimental"
     },
     "popup_steps_experimental_description": {
-        "message": "Nos alchimistes connaissent les moyens de dompter les défis du MV3. PageBoost fonctionne désormais avec le Manifeste V3."
+        "message": "Nos alchimistes connaissent les moyens de dompter les défis du MV3. Driver Support One fonctionne désormais avec le Manifeste V3."
     },
     "popup_steps_new_tech_title": {
         "message": "Innovant"
@@ -39,13 +39,13 @@
         "message": "Rapide"
     },
     "popup_steps_fast_work_description": {
-        "message": "Nous avons augmenté les performances d'PageBoost en remaniant nos bibliothèques de blocage de contenu et en utilisant les fonctionnalités MV3."
+        "message": "Nous avons augmenté les performances d'Driver Support One en remaniant nos bibliothèques de blocage de contenu et en utilisant les fonctionnalités MV3."
     },
     "popup_steps_v3_manifest_title": {
         "message": "Manifeste V3"
     },
     "popup_steps_v3_manifest_description": {
-        "message": "Vous ne remarquerez peut-être qu’un seul résultat de la transition d’PageBoost vers le MV3 : des performances encore meilleures."
+        "message": "Vous ne remarquerez peut-être qu’un seul résultat de la transition Driver Support One vers le MV3 : des performances encore meilleures."
     },
     "popup_learn_more_link": {
         "message": "En savoir plus"
@@ -93,13 +93,13 @@
         "message": "French"
     },
     "options_base_filter": {
-        "message": "Filtre de base PageBoost"
+        "message": "Filtre de base Driver Support One"
     },
     "options_custom_filters_option": {
         "message": "Filtres personnalisés"
     },
     "options_custom_filters_option_desc": {
-        "message": "Ajouter des filtres personnalisés basés sur les règles de filtrage d’PageBoost"
+        "message": "Ajouter des filtres personnalisés basés sur les règles de filtrage Driver Support One"
     },
     "options_static_filters_limits_by_rules": {
         "message": "Vous avez atteint la limite des règles intégrées actives. Pour activer de nouvelles règles, désactivez certains filtres intégrés. <newline><\/newline> <link-to-limits>Limites des règles<\/link-to-limits>"
@@ -150,7 +150,7 @@
         "message": "Bloquer les publicités sur ce site"
     },
     "options_open_settings": {
-        "message": "Paramètres d'PageBoost"
+        "message": "Paramètres d'Driver Support One"
     },
     "options_settings_title": {
         "message": "Paramètres"
@@ -159,7 +159,7 @@
         "message": "À propos"
     },
     "options_about_product": {
-        "message": "Extension de navigateur PageBoost MV3"
+        "message": "Extension de navigateur Driver Support One MV3"
     },
     "options_about_version": {
         "message": "Version"
@@ -183,7 +183,7 @@
         "message": "Tous droits réservés."
     },
     "options_notice_program": {
-        "message": "Cette extension est un projet expérimental de l’équipe PageBoost"
+        "message": "Cette extension est un projet expérimental de l’équipe Driver Support One"
     },
     "options_notice_compare_link": {
         "message": "En savoir plus"
@@ -231,13 +231,13 @@
         "message": "Signaler un problème..."
     },
     "context_menu_open_options": {
-        "message": "Paramètres d'PageBoost..."
+        "message": "Paramètres d'Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "Mettre en pause la protection d'PageBoost"
+        "message": "Mettre en pause la protection d'Driver Support One"
     },
     "context_menu_enable_blocking": {
-        "message": "Activer la protection PageBoost"
+        "message": "Activer la protection Driver Support One"
     },
     "options_add_custom_filter": {
         "message": "Ajouter un filtre personnalisé"

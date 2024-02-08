@@ -933,6 +933,19 @@
 			"type": "block"
 		},
 		"condition": {
+			"urlFilter": "||viralize.tv/display/",
+			"initiatorDomains": [
+				"startpagina.nl"
+			],
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 12756,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
 			"urlFilter": "||widget.vpnnederland.nl^",
 			"initiatorDomains": [
 				"nzbserver.com"
@@ -941,7 +954,7 @@
 		}
 	},
 	{
-		"id": 12758,
+		"id": 12804,
 		"action": {
 			"type": "block"
 		},
@@ -954,7 +967,7 @@
 		}
 	},
 	{
-		"id": 12806,
+		"id": 12852,
 		"action": {
 			"type": "block"
 		},
@@ -970,7 +983,7 @@
 		}
 	},
 	{
-		"id": 12888,
+		"id": 12934,
 		"action": {
 			"type": "block"
 		},
@@ -980,7 +993,7 @@
 		}
 	},
 	{
-		"id": 12938,
+		"id": 12984,
 		"action": {
 			"type": "block"
 		},
@@ -990,7 +1003,7 @@
 		}
 	},
 	{
-		"id": 12989,
+		"id": 13035,
 		"action": {
 			"type": "block"
 		},
@@ -1000,7 +1013,7 @@
 		}
 	},
 	{
-		"id": 13015,
+		"id": 13061,
 		"action": {
 			"type": "block"
 		},
@@ -1010,7 +1023,17 @@
 		}
 	},
 	{
-		"id": 13036,
+		"id": 13082,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||aa.tweakers.nl^",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 13101,
 		"action": {
 			"type": "block"
 		},
@@ -1020,7 +1043,7 @@
 		}
 	},
 	{
-		"id": 13095,
+		"id": 13160,
 		"action": {
 			"type": "block"
 		},
@@ -1030,7 +1053,7 @@
 		}
 	},
 	{
-		"id": 13130,
+		"id": 13195,
 		"action": {
 			"type": "block"
 		},
@@ -1040,7 +1063,7 @@
 		}
 	},
 	{
-		"id": 13163,
+		"id": 13228,
 		"action": {
 			"type": "block"
 		},
@@ -1050,7 +1073,7 @@
 		}
 	},
 	{
-		"id": 13210,
+		"id": 13275,
 		"action": {
 			"type": "block"
 		},
@@ -1060,7 +1083,7 @@
 		}
 	},
 	{
-		"id": 13253,
+		"id": 13318,
 		"action": {
 			"type": "block"
 		},
@@ -1070,7 +1093,7 @@
 		}
 	},
 	{
-		"id": 13295,
+		"id": 13360,
 		"action": {
 			"type": "block"
 		},
@@ -1080,7 +1103,7 @@
 		}
 	},
 	{
-		"id": 13318,
+		"id": 13383,
 		"action": {
 			"type": "block"
 		},
@@ -1090,7 +1113,7 @@
 		}
 	},
 	{
-		"id": 13349,
+		"id": 13414,
 		"action": {
 			"type": "block"
 		},
@@ -1100,7 +1123,7 @@
 		}
 	},
 	{
-		"id": 13381,
+		"id": 13446,
 		"action": {
 			"type": "block"
 		},
@@ -1110,7 +1133,7 @@
 		}
 	},
 	{
-		"id": 13433,
+		"id": 13498,
 		"action": {
 			"type": "block"
 		},
@@ -1120,7 +1143,7 @@
 		}
 	},
 	{
-		"id": 13465,
+		"id": 13530,
 		"action": {
 			"type": "block"
 		},
@@ -1130,7 +1153,7 @@
 		}
 	},
 	{
-		"id": 13509,
+		"id": 13574,
 		"action": {
 			"type": "block"
 		},
@@ -1140,7 +1163,7 @@
 		}
 	},
 	{
-		"id": 13546,
+		"id": 13611,
 		"action": {
 			"type": "block"
 		},
@@ -1150,7 +1173,7 @@
 		}
 	},
 	{
-		"id": 13588,
+		"id": 13653,
 		"action": {
 			"type": "block"
 		},
@@ -1160,7 +1183,7 @@
 		}
 	},
 	{
-		"id": 13627,
+		"id": 13692,
 		"action": {
 			"type": "block"
 		},
@@ -1170,7 +1193,7 @@
 		}
 	},
 	{
-		"id": 13668,
+		"id": 13733,
 		"action": {
 			"type": "block"
 		},
@@ -1180,7 +1203,7 @@
 		}
 	},
 	{
-		"id": 13699,
+		"id": 13764,
 		"action": {
 			"type": "block"
 		},
@@ -1190,7 +1213,7 @@
 		}
 	},
 	{
-		"id": 13731,
+		"id": 13796,
 		"action": {
 			"type": "block"
 		},
@@ -1200,7 +1223,7 @@
 		}
 	},
 	{
-		"id": 13766,
+		"id": 13831,
 		"action": {
 			"type": "block"
 		},
@@ -1210,7 +1233,7 @@
 		}
 	},
 	{
-		"id": 13801,
+		"id": 13866,
 		"action": {
 			"type": "block"
 		},
@@ -1220,7 +1243,7 @@
 		}
 	},
 	{
-		"id": 13835,
+		"id": 13900,
 		"action": {
 			"type": "block"
 		},
@@ -1230,7 +1253,7 @@
 		}
 	},
 	{
-		"id": 13878,
+		"id": 13943,
 		"action": {
 			"type": "block"
 		},
@@ -1240,7 +1263,7 @@
 		}
 	},
 	{
-		"id": 13906,
+		"id": 13971,
 		"action": {
 			"type": "block"
 		},
@@ -1250,7 +1273,7 @@
 		}
 	},
 	{
-		"id": 13943,
+		"id": 14008,
 		"action": {
 			"type": "block"
 		},
@@ -1260,7 +1283,7 @@
 		}
 	},
 	{
-		"id": 13977,
+		"id": 14042,
 		"action": {
 			"type": "block"
 		},
@@ -1270,7 +1293,7 @@
 		}
 	},
 	{
-		"id": 14000,
+		"id": 14065,
 		"action": {
 			"type": "block"
 		},
@@ -1280,7 +1303,7 @@
 		}
 	},
 	{
-		"id": 14019,
+		"id": 14084,
 		"action": {
 			"type": "block"
 		},
@@ -1290,7 +1313,7 @@
 		}
 	},
 	{
-		"id": 14047,
+		"id": 14112,
 		"action": {
 			"type": "block"
 		},
@@ -1300,7 +1323,7 @@
 		}
 	},
 	{
-		"id": 14068,
+		"id": 14133,
 		"action": {
 			"type": "block"
 		},
@@ -1310,7 +1333,7 @@
 		}
 	},
 	{
-		"id": 14097,
+		"id": 14162,
 		"action": {
 			"type": "block"
 		},
@@ -1320,7 +1343,7 @@
 		}
 	},
 	{
-		"id": 14124,
+		"id": 14189,
 		"action": {
 			"type": "block"
 		},
@@ -1330,7 +1353,7 @@
 		}
 	},
 	{
-		"id": 14143,
+		"id": 14208,
 		"action": {
 			"type": "block"
 		},
@@ -1340,7 +1363,7 @@
 		}
 	},
 	{
-		"id": 14171,
+		"id": 14236,
 		"action": {
 			"type": "block"
 		},
@@ -1350,7 +1373,7 @@
 		}
 	},
 	{
-		"id": 14192,
+		"id": 14257,
 		"action": {
 			"type": "block"
 		},
@@ -1360,7 +1383,7 @@
 		}
 	},
 	{
-		"id": 14242,
+		"id": 14307,
 		"action": {
 			"type": "block"
 		},
@@ -1370,7 +1393,7 @@
 		}
 	},
 	{
-		"id": 14292,
+		"id": 14357,
 		"action": {
 			"type": "block"
 		},
@@ -1380,7 +1403,7 @@
 		}
 	},
 	{
-		"id": 14342,
+		"id": 14407,
 		"action": {
 			"type": "block"
 		},
@@ -1390,7 +1413,7 @@
 		}
 	},
 	{
-		"id": 14385,
+		"id": 14450,
 		"action": {
 			"type": "block"
 		},
@@ -1400,7 +1423,7 @@
 		}
 	},
 	{
-		"id": 14423,
+		"id": 14488,
 		"action": {
 			"type": "block"
 		},
@@ -1410,7 +1433,7 @@
 		}
 	},
 	{
-		"id": 14466,
+		"id": 14531,
 		"action": {
 			"type": "block"
 		},
@@ -1420,7 +1443,7 @@
 		}
 	},
 	{
-		"id": 14507,
+		"id": 14572,
 		"action": {
 			"type": "block"
 		},
@@ -1430,7 +1453,7 @@
 		}
 	},
 	{
-		"id": 14571,
+		"id": 14636,
 		"action": {
 			"type": "block"
 		},
@@ -1440,7 +1463,7 @@
 		}
 	},
 	{
-		"id": 14629,
+		"id": 14694,
 		"action": {
 			"type": "block"
 		},
@@ -1450,7 +1473,7 @@
 		}
 	},
 	{
-		"id": 14684,
+		"id": 14749,
 		"action": {
 			"type": "block"
 		},
@@ -1460,7 +1483,7 @@
 		}
 	},
 	{
-		"id": 14745,
+		"id": 14810,
 		"action": {
 			"type": "block"
 		},
@@ -1470,7 +1493,7 @@
 		}
 	},
 	{
-		"id": 14801,
+		"id": 14866,
 		"action": {
 			"type": "block"
 		},
@@ -1480,7 +1503,7 @@
 		}
 	},
 	{
-		"id": 14860,
+		"id": 14925,
 		"action": {
 			"type": "block"
 		},
@@ -1490,7 +1513,7 @@
 		}
 	},
 	{
-		"id": 14917,
+		"id": 14982,
 		"action": {
 			"type": "block"
 		},
@@ -1500,7 +1523,7 @@
 		}
 	},
 	{
-		"id": 14944,
+		"id": 15009,
 		"action": {
 			"type": "block"
 		},
@@ -1510,7 +1533,7 @@
 		}
 	},
 	{
-		"id": 14975,
+		"id": 15040,
 		"action": {
 			"type": "block"
 		},
@@ -1520,7 +1543,7 @@
 		}
 	},
 	{
-		"id": 15017,
+		"id": 15082,
 		"action": {
 			"type": "block"
 		},
@@ -1530,7 +1553,7 @@
 		}
 	},
 	{
-		"id": 15079,
+		"id": 15144,
 		"action": {
 			"type": "block"
 		},
@@ -1540,7 +1563,7 @@
 		}
 	},
 	{
-		"id": 15119,
+		"id": 15184,
 		"action": {
 			"type": "block"
 		},
@@ -1550,7 +1573,7 @@
 		}
 	},
 	{
-		"id": 15156,
+		"id": 15221,
 		"action": {
 			"type": "block"
 		},
@@ -1560,7 +1583,7 @@
 		}
 	},
 	{
-		"id": 15200,
+		"id": 15265,
 		"action": {
 			"type": "block"
 		},
@@ -1570,7 +1593,7 @@
 		}
 	},
 	{
-		"id": 15232,
+		"id": 15297,
 		"action": {
 			"type": "block"
 		},
@@ -1580,7 +1603,7 @@
 		}
 	},
 	{
-		"id": 15260,
+		"id": 15325,
 		"action": {
 			"type": "block"
 		},
@@ -1590,7 +1613,7 @@
 		}
 	},
 	{
-		"id": 15295,
+		"id": 15360,
 		"action": {
 			"type": "block"
 		},
@@ -1600,7 +1623,7 @@
 		}
 	},
 	{
-		"id": 15324,
+		"id": 15389,
 		"action": {
 			"type": "block"
 		},
@@ -1610,7 +1633,7 @@
 		}
 	},
 	{
-		"id": 15349,
+		"id": 15414,
 		"action": {
 			"type": "block"
 		},
@@ -1620,7 +1643,7 @@
 		}
 	},
 	{
-		"id": 15372,
+		"id": 15437,
 		"action": {
 			"type": "block"
 		},
@@ -1630,7 +1653,7 @@
 		}
 	},
 	{
-		"id": 15413,
+		"id": 15478,
 		"action": {
 			"type": "block"
 		},
@@ -1640,7 +1663,7 @@
 		}
 	},
 	{
-		"id": 15445,
+		"id": 15510,
 		"action": {
 			"type": "block"
 		},
@@ -1650,7 +1673,7 @@
 		}
 	},
 	{
-		"id": 15477,
+		"id": 15542,
 		"action": {
 			"type": "block"
 		},
@@ -1660,7 +1683,7 @@
 		}
 	},
 	{
-		"id": 15521,
+		"id": 15586,
 		"action": {
 			"type": "block"
 		},
@@ -1670,7 +1693,7 @@
 		}
 	},
 	{
-		"id": 15565,
+		"id": 15630,
 		"action": {
 			"type": "block"
 		},
@@ -1680,7 +1703,7 @@
 		}
 	},
 	{
-		"id": 15610,
+		"id": 15675,
 		"action": {
 			"type": "block"
 		},
@@ -1690,7 +1713,7 @@
 		}
 	},
 	{
-		"id": 15651,
+		"id": 15716,
 		"action": {
 			"type": "block"
 		},
@@ -1700,7 +1723,7 @@
 		}
 	},
 	{
-		"id": 15724,
+		"id": 15789,
 		"action": {
 			"type": "block"
 		},
@@ -1710,7 +1733,7 @@
 		}
 	},
 	{
-		"id": 15807,
+		"id": 15872,
 		"action": {
 			"type": "block"
 		},
@@ -1720,7 +1743,7 @@
 		}
 	},
 	{
-		"id": 15879,
+		"id": 15944,
 		"action": {
 			"type": "block"
 		},
@@ -1730,7 +1753,7 @@
 		}
 	},
 	{
-		"id": 15909,
+		"id": 15974,
 		"action": {
 			"type": "block"
 		},
@@ -1740,7 +1763,7 @@
 		}
 	},
 	{
-		"id": 15943,
+		"id": 16008,
 		"action": {
 			"type": "block"
 		},
@@ -1750,7 +1773,7 @@
 		}
 	},
 	{
-		"id": 15978,
+		"id": 16043,
 		"action": {
 			"type": "block"
 		},
@@ -1760,7 +1783,7 @@
 		}
 	},
 	{
-		"id": 16016,
+		"id": 16081,
 		"action": {
 			"type": "block"
 		},
@@ -1770,7 +1793,7 @@
 		}
 	},
 	{
-		"id": 16063,
+		"id": 16128,
 		"action": {
 			"type": "block"
 		},
@@ -1780,7 +1803,7 @@
 		}
 	},
 	{
-		"id": 16110,
+		"id": 16175,
 		"action": {
 			"type": "block"
 		},
@@ -1790,7 +1813,7 @@
 		}
 	},
 	{
-		"id": 16138,
+		"id": 16203,
 		"action": {
 			"type": "block"
 		},
@@ -1800,7 +1823,7 @@
 		}
 	},
 	{
-		"id": 16187,
+		"id": 16252,
 		"action": {
 			"type": "block"
 		},
@@ -1810,7 +1833,7 @@
 		}
 	},
 	{
-		"id": 16230,
+		"id": 16295,
 		"action": {
 			"type": "block"
 		},
@@ -1820,7 +1843,7 @@
 		}
 	},
 	{
-		"id": 16265,
+		"id": 16330,
 		"action": {
 			"type": "block"
 		},
@@ -1830,7 +1853,7 @@
 		}
 	},
 	{
-		"id": 16295,
+		"id": 16360,
 		"action": {
 			"type": "block"
 		},
@@ -1840,7 +1863,7 @@
 		}
 	},
 	{
-		"id": 16332,
+		"id": 16397,
 		"action": {
 			"type": "block"
 		},
@@ -1850,7 +1873,7 @@
 		}
 	},
 	{
-		"id": 16359,
+		"id": 16424,
 		"action": {
 			"type": "block"
 		},
@@ -1860,7 +1883,7 @@
 		}
 	},
 	{
-		"id": 16404,
+		"id": 16469,
 		"action": {
 			"type": "block"
 		},
@@ -1870,7 +1893,7 @@
 		}
 	},
 	{
-		"id": 16448,
+		"id": 16513,
 		"action": {
 			"type": "block"
 		},
@@ -1880,7 +1903,7 @@
 		}
 	},
 	{
-		"id": 16474,
+		"id": 16539,
 		"action": {
 			"type": "block"
 		},
@@ -1890,7 +1913,7 @@
 		}
 	},
 	{
-		"id": 16516,
+		"id": 16581,
 		"action": {
 			"type": "block"
 		},
@@ -1900,7 +1923,7 @@
 		}
 	},
 	{
-		"id": 16544,
+		"id": 16609,
 		"action": {
 			"type": "block"
 		},
@@ -1910,7 +1933,7 @@
 		}
 	},
 	{
-		"id": 16585,
+		"id": 16650,
 		"action": {
 			"type": "block"
 		},
@@ -1920,7 +1943,7 @@
 		}
 	},
 	{
-		"id": 16648,
+		"id": 16713,
 		"action": {
 			"type": "block"
 		},
@@ -1930,7 +1953,7 @@
 		}
 	},
 	{
-		"id": 16701,
+		"id": 16766,
 		"action": {
 			"type": "block"
 		},
@@ -1940,7 +1963,7 @@
 		}
 	},
 	{
-		"id": 16744,
+		"id": 16809,
 		"action": {
 			"type": "block"
 		},
@@ -1950,7 +1973,7 @@
 		}
 	},
 	{
-		"id": 16787,
+		"id": 16852,
 		"action": {
 			"type": "block"
 		},
@@ -1960,7 +1983,7 @@
 		}
 	},
 	{
-		"id": 16817,
+		"id": 16882,
 		"action": {
 			"type": "block"
 		},
@@ -1970,7 +1993,7 @@
 		}
 	},
 	{
-		"id": 16867,
+		"id": 16932,
 		"action": {
 			"type": "block"
 		},
@@ -1980,7 +2003,7 @@
 		}
 	},
 	{
-		"id": 16916,
+		"id": 16981,
 		"action": {
 			"type": "block"
 		},
@@ -1990,7 +2013,7 @@
 		}
 	},
 	{
-		"id": 16970,
+		"id": 17035,
 		"action": {
 			"type": "block"
 		},
@@ -2000,7 +2023,7 @@
 		}
 	},
 	{
-		"id": 17001,
+		"id": 17066,
 		"action": {
 			"type": "block"
 		},
@@ -2010,7 +2033,7 @@
 		}
 	},
 	{
-		"id": 17049,
+		"id": 17114,
 		"action": {
 			"type": "block"
 		},
@@ -2020,7 +2043,7 @@
 		}
 	},
 	{
-		"id": 17097,
+		"id": 17162,
 		"action": {
 			"type": "block"
 		},
@@ -2030,7 +2053,7 @@
 		}
 	},
 	{
-		"id": 17130,
+		"id": 17195,
 		"action": {
 			"type": "block"
 		},
@@ -2040,7 +2063,7 @@
 		}
 	},
 	{
-		"id": 17154,
+		"id": 17219,
 		"action": {
 			"type": "block"
 		},
@@ -2050,7 +2073,7 @@
 		}
 	},
 	{
-		"id": 17190,
+		"id": 17255,
 		"action": {
 			"type": "block"
 		},
@@ -2060,7 +2083,7 @@
 		}
 	},
 	{
-		"id": 17228,
+		"id": 17293,
 		"action": {
 			"type": "block"
 		},
@@ -2070,7 +2093,7 @@
 		}
 	},
 	{
-		"id": 17258,
+		"id": 17323,
 		"action": {
 			"type": "block"
 		},
@@ -2080,7 +2103,7 @@
 		}
 	},
 	{
-		"id": 17300,
+		"id": 17365,
 		"action": {
 			"type": "block"
 		},
@@ -2090,7 +2113,7 @@
 		}
 	},
 	{
-		"id": 17345,
+		"id": 17410,
 		"action": {
 			"type": "block"
 		},
@@ -2100,7 +2123,7 @@
 		}
 	},
 	{
-		"id": 17394,
+		"id": 17459,
 		"action": {
 			"type": "block"
 		},
@@ -2110,7 +2133,7 @@
 		}
 	},
 	{
-		"id": 17426,
+		"id": 17491,
 		"action": {
 			"type": "block"
 		},
@@ -2120,7 +2143,7 @@
 		}
 	},
 	{
-		"id": 17450,
+		"id": 17515,
 		"action": {
 			"type": "block"
 		},
@@ -2130,7 +2153,7 @@
 		}
 	},
 	{
-		"id": 17479,
+		"id": 17544,
 		"action": {
 			"type": "block"
 		},
@@ -2140,7 +2163,7 @@
 		}
 	},
 	{
-		"id": 17533,
+		"id": 17598,
 		"action": {
 			"type": "block"
 		},
@@ -2150,7 +2173,7 @@
 		}
 	},
 	{
-		"id": 17570,
+		"id": 17635,
 		"action": {
 			"type": "block"
 		},
@@ -2160,7 +2183,7 @@
 		}
 	},
 	{
-		"id": 17603,
+		"id": 17668,
 		"action": {
 			"type": "block"
 		},
@@ -2173,7 +2196,7 @@
 		}
 	},
 	{
-		"id": 17664,
+		"id": 17729,
 		"action": {
 			"type": "block"
 		},
@@ -2183,7 +2206,7 @@
 		}
 	},
 	{
-		"id": 17685,
+		"id": 17750,
 		"action": {
 			"type": "block"
 		},
@@ -2193,7 +2216,7 @@
 		}
 	},
 	{
-		"id": 17712,
+		"id": 17777,
 		"action": {
 			"type": "block"
 		},
@@ -2203,7 +2226,7 @@
 		}
 	},
 	{
-		"id": 17748,
+		"id": 17813,
 		"action": {
 			"type": "block"
 		},
@@ -2213,7 +2236,17 @@
 		}
 	},
 	{
-		"id": 17785,
+		"id": 17850,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||onlinecorrectie.nl/cnc/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 17877,
 		"action": {
 			"type": "block"
 		},
@@ -2223,7 +2256,7 @@
 		}
 	},
 	{
-		"id": 17832,
+		"id": 17924,
 		"action": {
 			"type": "block"
 		},
@@ -2233,7 +2266,7 @@
 		}
 	},
 	{
-		"id": 17864,
+		"id": 17956,
 		"action": {
 			"type": "block"
 		},
@@ -2243,7 +2276,7 @@
 		}
 	},
 	{
-		"id": 17883,
+		"id": 17975,
 		"action": {
 			"type": "block"
 		},
@@ -2253,7 +2286,7 @@
 		}
 	},
 	{
-		"id": 17934,
+		"id": 18026,
 		"action": {
 			"type": "block"
 		},
@@ -2263,7 +2296,7 @@
 		}
 	},
 	{
-		"id": 17980,
+		"id": 18072,
 		"action": {
 			"type": "block"
 		},
@@ -2273,7 +2306,7 @@
 		}
 	},
 	{
-		"id": 18007,
+		"id": 18099,
 		"action": {
 			"type": "block"
 		},
@@ -2283,7 +2316,7 @@
 		}
 	},
 	{
-		"id": 18033,
+		"id": 18125,
 		"action": {
 			"type": "block"
 		},
@@ -2293,7 +2326,7 @@
 		}
 	},
 	{
-		"id": 18070,
+		"id": 18162,
 		"action": {
 			"type": "block"
 		},
@@ -2303,7 +2336,7 @@
 		}
 	},
 	{
-		"id": 18109,
+		"id": 18201,
 		"action": {
 			"type": "block"
 		},
@@ -2313,7 +2346,7 @@
 		}
 	},
 	{
-		"id": 18164,
+		"id": 18256,
 		"action": {
 			"type": "block"
 		},
@@ -2323,7 +2356,7 @@
 		}
 	},
 	{
-		"id": 18229,
+		"id": 18321,
 		"action": {
 			"type": "block"
 		},
@@ -2333,7 +2366,7 @@
 		}
 	},
 	{
-		"id": 18272,
+		"id": 18364,
 		"action": {
 			"type": "block"
 		},
@@ -2343,7 +2376,7 @@
 		}
 	},
 	{
-		"id": 18308,
+		"id": 18400,
 		"action": {
 			"type": "block"
 		},
@@ -2353,7 +2386,7 @@
 		}
 	},
 	{
-		"id": 18338,
+		"id": 18430,
 		"action": {
 			"type": "block"
 		},
@@ -2363,7 +2396,7 @@
 		}
 	},
 	{
-		"id": 18374,
+		"id": 18466,
 		"action": {
 			"type": "block"
 		},
@@ -2373,7 +2406,7 @@
 		}
 	},
 	{
-		"id": 18403,
+		"id": 18495,
 		"action": {
 			"type": "block"
 		},
@@ -2383,7 +2416,7 @@
 		}
 	},
 	{
-		"id": 18458,
+		"id": 18550,
 		"action": {
 			"type": "block"
 		},
@@ -2393,7 +2426,7 @@
 		}
 	},
 	{
-		"id": 18502,
+		"id": 18594,
 		"action": {
 			"type": "block"
 		},
@@ -2403,7 +2436,7 @@
 		}
 	},
 	{
-		"id": 18546,
+		"id": 18638,
 		"action": {
 			"type": "block"
 		},
@@ -2413,7 +2446,7 @@
 		}
 	},
 	{
-		"id": 18583,
+		"id": 18675,
 		"action": {
 			"type": "block"
 		},
@@ -2423,7 +2456,7 @@
 		}
 	},
 	{
-		"id": 18628,
+		"id": 18720,
 		"action": {
 			"type": "block"
 		},
@@ -2433,7 +2466,7 @@
 		}
 	},
 	{
-		"id": 18648,
+		"id": 18740,
 		"action": {
 			"type": "block"
 		},
@@ -2443,7 +2476,7 @@
 		}
 	},
 	{
-		"id": 18695,
+		"id": 18787,
 		"action": {
 			"type": "block"
 		},
@@ -2453,7 +2486,7 @@
 		}
 	},
 	{
-		"id": 18742,
+		"id": 18834,
 		"action": {
 			"type": "block"
 		},
@@ -2463,7 +2496,7 @@
 		}
 	},
 	{
-		"id": 18780,
+		"id": 18872,
 		"action": {
 			"type": "block"
 		},
@@ -2473,7 +2506,7 @@
 		}
 	},
 	{
-		"id": 18824,
+		"id": 18916,
 		"action": {
 			"type": "block"
 		},
@@ -2483,7 +2516,7 @@
 		}
 	},
 	{
-		"id": 18866,
+		"id": 18958,
 		"action": {
 			"type": "block"
 		},
@@ -2493,7 +2526,7 @@
 		}
 	},
 	{
-		"id": 18908,
+		"id": 19000,
 		"action": {
 			"type": "block"
 		},
@@ -2503,7 +2536,7 @@
 		}
 	},
 	{
-		"id": 18966,
+		"id": 19058,
 		"action": {
 			"type": "block"
 		},
@@ -2513,7 +2546,7 @@
 		}
 	},
 	{
-		"id": 18995,
+		"id": 19087,
 		"action": {
 			"type": "block"
 		},
@@ -2523,7 +2556,7 @@
 		}
 	},
 	{
-		"id": 19017,
+		"id": 19109,
 		"action": {
 			"type": "block"
 		},
@@ -2533,7 +2566,7 @@
 		}
 	},
 	{
-		"id": 19044,
+		"id": 19136,
 		"action": {
 			"type": "block"
 		},
@@ -2543,7 +2576,7 @@
 		}
 	},
 	{
-		"id": 19076,
+		"id": 19168,
 		"action": {
 			"type": "block"
 		},
@@ -2553,7 +2586,7 @@
 		}
 	},
 	{
-		"id": 19112,
+		"id": 19204,
 		"action": {
 			"type": "block"
 		},
@@ -2563,7 +2596,7 @@
 		}
 	},
 	{
-		"id": 19148,
+		"id": 19240,
 		"action": {
 			"type": "block"
 		},
@@ -2573,7 +2606,7 @@
 		}
 	},
 	{
-		"id": 19185,
+		"id": 19277,
 		"action": {
 			"type": "block"
 		},
@@ -2583,7 +2616,7 @@
 		}
 	},
 	{
-		"id": 19223,
+		"id": 19315,
 		"action": {
 			"type": "block"
 		},
@@ -2593,7 +2626,7 @@
 		}
 	},
 	{
-		"id": 19265,
+		"id": 19357,
 		"action": {
 			"type": "block"
 		},
@@ -2603,7 +2636,7 @@
 		}
 	},
 	{
-		"id": 19319,
+		"id": 19411,
 		"action": {
 			"type": "block"
 		},
@@ -2613,7 +2646,7 @@
 		}
 	},
 	{
-		"id": 19374,
+		"id": 19466,
 		"action": {
 			"type": "block"
 		},
@@ -2623,7 +2656,7 @@
 		}
 	},
 	{
-		"id": 19426,
+		"id": 19518,
 		"action": {
 			"type": "block"
 		},
@@ -2633,7 +2666,7 @@
 		}
 	},
 	{
-		"id": 19455,
+		"id": 19547,
 		"action": {
 			"type": "block"
 		},
@@ -2643,7 +2676,7 @@
 		}
 	},
 	{
-		"id": 19501,
+		"id": 19593,
 		"action": {
 			"type": "block"
 		},
@@ -2653,7 +2686,7 @@
 		}
 	},
 	{
-		"id": 19547,
+		"id": 19639,
 		"action": {
 			"type": "block"
 		},
@@ -2663,7 +2696,7 @@
 		}
 	},
 	{
-		"id": 19583,
+		"id": 19675,
 		"action": {
 			"type": "block"
 		},
@@ -2673,7 +2706,7 @@
 		}
 	},
 	{
-		"id": 19631,
+		"id": 19723,
 		"action": {
 			"type": "block"
 		},
@@ -2683,7 +2716,7 @@
 		}
 	},
 	{
-		"id": 19659,
+		"id": 19751,
 		"action": {
 			"type": "block"
 		},
@@ -2693,7 +2726,7 @@
 		}
 	},
 	{
-		"id": 19712,
+		"id": 19804,
 		"action": {
 			"type": "block"
 		},
@@ -2703,7 +2736,7 @@
 		}
 	},
 	{
-		"id": 19762,
+		"id": 19854,
 		"action": {
 			"type": "block"
 		},
@@ -2713,7 +2746,7 @@
 		}
 	},
 	{
-		"id": 19812,
+		"id": 19904,
 		"action": {
 			"type": "block"
 		},
@@ -2723,7 +2756,7 @@
 		}
 	},
 	{
-		"id": 19827,
+		"id": 19919,
 		"action": {
 			"type": "block"
 		},
@@ -2733,7 +2766,7 @@
 		}
 	},
 	{
-		"id": 19857,
+		"id": 19949,
 		"action": {
 			"type": "block"
 		},
@@ -2743,7 +2776,7 @@
 		}
 	},
 	{
-		"id": 19879,
+		"id": 19971,
 		"action": {
 			"type": "block"
 		},
@@ -2753,7 +2786,7 @@
 		}
 	},
 	{
-		"id": 19904,
+		"id": 19996,
 		"action": {
 			"type": "block"
 		},
@@ -2763,7 +2796,7 @@
 		}
 	},
 	{
-		"id": 19957,
+		"id": 20049,
 		"action": {
 			"type": "block"
 		},
@@ -2773,7 +2806,7 @@
 		}
 	},
 	{
-		"id": 20018,
+		"id": 20110,
 		"action": {
 			"type": "block"
 		},
@@ -2783,7 +2816,7 @@
 		}
 	},
 	{
-		"id": 20045,
+		"id": 20137,
 		"action": {
 			"type": "block"
 		},
@@ -2793,7 +2826,7 @@
 		}
 	},
 	{
-		"id": 20071,
+		"id": 20163,
 		"action": {
 			"type": "block"
 		},
@@ -2803,7 +2836,7 @@
 		}
 	},
 	{
-		"id": 20094,
+		"id": 20186,
 		"action": {
 			"type": "block"
 		},
@@ -2813,7 +2846,7 @@
 		}
 	},
 	{
-		"id": 20129,
+		"id": 20221,
 		"action": {
 			"type": "block"
 		},
@@ -2823,7 +2856,7 @@
 		}
 	},
 	{
-		"id": 20179,
+		"id": 20271,
 		"action": {
 			"type": "block"
 		},
@@ -2833,7 +2866,7 @@
 		}
 	},
 	{
-		"id": 20211,
+		"id": 20303,
 		"action": {
 			"type": "block"
 		},
@@ -2843,7 +2876,7 @@
 		}
 	},
 	{
-		"id": 20248,
+		"id": 20340,
 		"action": {
 			"type": "block"
 		},
@@ -2853,7 +2886,7 @@
 		}
 	},
 	{
-		"id": 20295,
+		"id": 20387,
 		"action": {
 			"type": "block"
 		},
@@ -2863,7 +2896,7 @@
 		}
 	},
 	{
-		"id": 20331,
+		"id": 20423,
 		"action": {
 			"type": "block"
 		},
@@ -2873,7 +2906,7 @@
 		}
 	},
 	{
-		"id": 20372,
+		"id": 20464,
 		"action": {
 			"type": "block"
 		},
@@ -2883,7 +2916,7 @@
 		}
 	},
 	{
-		"id": 20411,
+		"id": 20503,
 		"action": {
 			"type": "block"
 		},
@@ -2893,7 +2926,7 @@
 		}
 	},
 	{
-		"id": 20443,
+		"id": 20535,
 		"action": {
 			"type": "block"
 		},
@@ -2903,7 +2936,7 @@
 		}
 	},
 	{
-		"id": 20480,
+		"id": 20572,
 		"action": {
 			"type": "block"
 		},
@@ -2913,7 +2946,7 @@
 		}
 	},
 	{
-		"id": 20549,
+		"id": 20641,
 		"action": {
 			"type": "block"
 		},
@@ -2923,7 +2956,7 @@
 		}
 	},
 	{
-		"id": 20589,
+		"id": 20681,
 		"action": {
 			"type": "block"
 		},
@@ -2933,7 +2966,7 @@
 		}
 	},
 	{
-		"id": 20627,
+		"id": 20719,
 		"action": {
 			"type": "block"
 		},
@@ -2946,7 +2979,7 @@
 		}
 	},
 	{
-		"id": 20672,
+		"id": 20764,
 		"action": {
 			"type": "block"
 		},
@@ -2959,7 +2992,7 @@
 		}
 	},
 	{
-		"id": 20712,
+		"id": 20804,
 		"action": {
 			"type": "block"
 		},
@@ -2969,7 +3002,7 @@
 		}
 	},
 	{
-		"id": 20745,
+		"id": 20837,
 		"action": {
 			"type": "block"
 		},
@@ -2979,7 +3012,7 @@
 		}
 	},
 	{
-		"id": 20783,
+		"id": 20875,
 		"action": {
 			"type": "block"
 		},
@@ -2989,7 +3022,827 @@
 		}
 	},
 	{
-		"id": 20808,
+		"id": 20900,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||watersport-tv.nl/content/31400/pages/clnt/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 20946,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-aalsmeer.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 20983,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-aalsmeer.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21021,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-airport.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21057,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-airport.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21094,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-binnenvaart.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21134,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-binnenvaart.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21175,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-blokzijl.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21212,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-blokzijl.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21250,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-brandaris.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21288,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-brandaris.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21327,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-delfzijl.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21364,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-delfzijl.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21402,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-denhelder.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21440,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-denhelder.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21479,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-denoever.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21516,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-denoever.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21554,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-dokkum.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21589,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-dokkum.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21625,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-dordrecht.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21663,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-dordrecht.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21702,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-enkhuizen.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21740,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-enkhuizen.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21779,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-friesemeren.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21819,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-friesemeren.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21860,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-grou.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21893,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-grou.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21927,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-harlingen.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 21965,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-harlingen.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22004,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-havenijmuiden.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22046,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-havenijmuiden.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22089,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-hindeloopen.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22129,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-hindeloopen.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22170,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-hoekvanholland.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22213,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-hoekvanholland.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22257,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-kampen.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22292,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-kampen.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22328,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-lauwersoog.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22367,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-lauwersoog.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22407,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-leeuwarden.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22446,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-leeuwarden.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22486,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-lelystad.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22523,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-lelystad.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22561,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-maassluis.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22599,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-maassluis.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22638,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-maastricht.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22677,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-maastricht.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22717,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-marken.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22752,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-marken.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22788,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-monnickendam.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22829,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-monnickendam.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22871,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-rotterdam.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22909,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-rotterdam.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22948,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-sneek.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 22982,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-sneek.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23017,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-terneuzen.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23055,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-terneuzen.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23094,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-vlaardingen.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23134,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-vlaardingen.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23175,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-volendam.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23212,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-volendam.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23250,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-workum.nl//media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23286,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-workum.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23322,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-zaanzicht.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23360,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-zaanzicht.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23399,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-zoutkamp.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23436,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-zoutkamp.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23474,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-zwartsluis.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23513,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcam-zwartsluis.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23553,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcams-ameland.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23590,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcams-ameland.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23628,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcams-scheveningen.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23670,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcams-scheveningen.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23713,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcams-texel.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23748,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcams-texel.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23784,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcams-vlissingen.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23824,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcams-vlissingen.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23865,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcamschiermonnikoog.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23908,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcamschiermonnikoog.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23952,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcamvlieland.nl/media/banners/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 23988,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webcamvlieland.nl/media/banners2/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 24025,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||webstick.nl/images/images-ads/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 24059,
 		"action": {
 			"type": "block"
 		},
@@ -2999,7 +3852,17 @@
 		}
 	},
 	{
-		"id": 20872,
+		"id": 24123,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||wieringernieuws.nl/gfx/ads/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 24154,
 		"action": {
 			"type": "block"
 		},
@@ -3009,7 +3872,7 @@
 		}
 	},
 	{
-		"id": 20929,
+		"id": 24211,
 		"action": {
 			"type": "block"
 		},
@@ -3019,7 +3882,7 @@
 		}
 	},
 	{
-		"id": 20953,
+		"id": 24235,
 		"action": {
 			"type": "block"
 		},
@@ -3029,7 +3892,7 @@
 		}
 	},
 	{
-		"id": 21012,
+		"id": 24294,
 		"action": {
 			"type": "block"
 		},
@@ -3039,7 +3902,7 @@
 		}
 	},
 	{
-		"id": 21087,
+		"id": 24369,
 		"action": {
 			"type": "block"
 		},
@@ -3049,7 +3912,7 @@
 		}
 	},
 	{
-		"id": 21195,
+		"id": 24477,
 		"action": {
 			"type": "block"
 		},
@@ -3059,7 +3922,7 @@
 		}
 	},
 	{
-		"id": 21268,
+		"id": 24550,
 		"action": {
 			"type": "block"
 		},
@@ -3069,7 +3932,7 @@
 		}
 	},
 	{
-		"id": 21343,
+		"id": 24625,
 		"action": {
 			"type": "block"
 		},
@@ -3079,7 +3942,7 @@
 		}
 	},
 	{
-		"id": 21433,
+		"id": 24715,
 		"action": {
 			"type": "block"
 		},
@@ -3089,7 +3952,7 @@
 		}
 	},
 	{
-		"id": 21493,
+		"id": 24775,
 		"action": {
 			"type": "block"
 		},
@@ -3099,7 +3962,7 @@
 		}
 	},
 	{
-		"id": 21548,
+		"id": 24830,
 		"action": {
 			"type": "block"
 		},
@@ -3109,7 +3972,7 @@
 		}
 	},
 	{
-		"id": 21610,
+		"id": 24892,
 		"action": {
 			"type": "block"
 		},
@@ -3119,7 +3982,7 @@
 		}
 	},
 	{
-		"id": 21670,
+		"id": 24952,
 		"action": {
 			"type": "block"
 		},
@@ -3129,7 +3992,7 @@
 		}
 	},
 	{
-		"id": 21746,
+		"id": 25028,
 		"action": {
 			"type": "block"
 		},
@@ -3139,7 +4002,17 @@
 		}
 	},
 	{
-		"id": 21808,
+		"id": 25090,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||yachtfocus.com^*/bnr/",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 25115,
 		"action": {
 			"type": "block"
 		},
@@ -3149,7 +4022,7 @@
 		}
 	},
 	{
-		"id": 21841,
+		"id": 25148,
 		"action": {
 			"type": "block"
 		},
@@ -3159,7 +4032,7 @@
 		}
 	},
 	{
-		"id": 21865,
+		"id": 25172,
 		"action": {
 			"type": "block"
 		},
@@ -3170,7 +4043,24 @@
 	},
 	{
 		"priority": 1,
-		"id": 21919,
+		"id": 25362,
+		"action": {
+			"type": "allow"
+		},
+		"condition": {
+			"urlFilter": "||2mdn.net/instream/html5/ima3.js",
+			"initiatorDomains": [
+				"omroepbrabant.nl"
+			],
+			"resourceTypes": [
+				"script"
+			],
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"priority": 1,
+		"id": 25430,
 		"action": {
 			"type": "allow"
 		},
@@ -3187,7 +4077,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22006,
+		"id": 25517,
 		"action": {
 			"type": "allow"
 		},
@@ -3204,7 +4094,24 @@
 	},
 	{
 		"priority": 1,
-		"id": 22088,
+		"id": 25599,
+		"action": {
+			"type": "allow"
+		},
+		"condition": {
+			"urlFilter": "||cdn.bluebillywig.com/scripts/prebid/*/bluebillywig_pbjs.js",
+			"initiatorDomains": [
+				"autoblog.bbvms.com"
+			],
+			"resourceTypes": [
+				"script"
+			],
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"priority": 1,
+		"id": 25696,
 		"action": {
 			"type": "allow"
 		},
@@ -3221,7 +4128,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22170,
+		"id": 25778,
 		"action": {
 			"type": "allow"
 		},
@@ -3236,7 +4143,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22260,
+		"id": 25868,
 		"action": {
 			"type": "allow"
 		},
@@ -3253,7 +4160,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22334,
+		"id": 25942,
 		"action": {
 			"type": "allow"
 		},
@@ -3263,14 +4170,15 @@
 				"dailybuzz.nl",
 				"skoften.net",
 				"sportnieuws.nl",
-				"vtm.be"
+				"vtm.be",
+				"weerplaza.nl"
 			],
 			"isUrlFilterCaseSensitive": false
 		}
 	},
 	{
 		"priority": 1,
-		"id": 22436,
+		"id": 26057,
 		"action": {
 			"type": "allow"
 		},
@@ -3284,7 +4192,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22503,
+		"id": 26124,
 		"action": {
 			"type": "allow"
 		},
@@ -3301,7 +4209,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22570,
+		"id": 26191,
 		"action": {
 			"type": "allow"
 		},
@@ -3320,7 +4228,24 @@
 	},
 	{
 		"priority": 1,
-		"id": 22658,
+		"id": 26279,
+		"action": {
+			"type": "allow"
+		},
+		"condition": {
+			"urlFilter": "||s0.2mdn.net/instream/html5/ima3.js",
+			"initiatorDomains": [
+				"autoblog.bbvms.com"
+			],
+			"resourceTypes": [
+				"script"
+			],
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"priority": 1,
+		"id": 26352,
 		"action": {
 			"type": "allow"
 		},
@@ -3337,7 +4262,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22730,
+		"id": 26424,
 		"action": {
 			"type": "allow"
 		},
@@ -3354,7 +4279,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22814,
+		"id": 26508,
 		"action": {
 			"type": "allow"
 		},
@@ -3371,7 +4296,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22896,
+		"id": 26590,
 		"action": {
 			"type": "allow"
 		},
@@ -3388,7 +4313,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 22963,
+		"id": 26657,
 		"action": {
 			"type": "allow"
 		},
@@ -3405,7 +4330,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 23045,
+		"id": 26739,
 		"action": {
 			"type": "allow"
 		},
@@ -3416,7 +4341,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 23093,
+		"id": 26787,
 		"action": {
 			"type": "allow"
 		},
@@ -3427,7 +4352,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 23167,
+		"id": 26861,
 		"action": {
 			"type": "allow"
 		},
@@ -3438,7 +4363,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 23204,
+		"id": 26898,
 		"action": {
 			"type": "allow"
 		},
@@ -3449,7 +4374,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 23249,
+		"id": 26943,
 		"action": {
 			"type": "allow"
 		},
@@ -3460,7 +4385,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 23293,
+		"id": 26987,
 		"action": {
 			"type": "allow"
 		},
@@ -3474,7 +4399,17 @@
 		}
 	},
 	{
-		"id": 56438,
+		"id": 62520,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||cdn.optoutadvertising.com^",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 62550,
 		"action": {
 			"type": "block"
 		},
@@ -3485,7 +4420,7 @@
 		}
 	},
 	{
-		"id": 56462,
+		"id": 62574,
 		"action": {
 			"type": "block"
 		},
@@ -3496,7 +4431,7 @@
 		}
 	},
 	{
-		"id": 56917,
+		"id": 63029,
 		"action": {
 			"type": "block"
 		},
@@ -3506,7 +4441,7 @@
 		}
 	},
 	{
-		"id": 56937,
+		"id": 63049,
 		"action": {
 			"type": "block"
 		},
@@ -3516,7 +4451,7 @@
 		}
 	},
 	{
-		"id": 56957,
+		"id": 63069,
 		"action": {
 			"type": "block"
 		},
@@ -3526,7 +4461,7 @@
 		}
 	},
 	{
-		"id": 56977,
+		"id": 63089,
 		"action": {
 			"type": "block"
 		},
@@ -3536,7 +4471,7 @@
 		}
 	},
 	{
-		"id": 56996,
+		"id": 63108,
 		"action": {
 			"type": "block"
 		},
@@ -3547,7 +4482,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 57965,
+		"id": 64077,
 		"action": {
 			"type": "allow"
 		},
@@ -3565,7 +4500,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 58022,
+		"id": 64134,
 		"action": {
 			"type": "allow"
 		},
@@ -3576,7 +4511,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 58043,
+		"id": 64155,
 		"action": {
 			"type": "allow"
 		},
@@ -3590,7 +4525,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 58200,
+		"id": 65783,
 		"action": {
 			"type": "allow"
 		},
@@ -3604,7 +4539,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 58246,
+		"id": 65829,
 		"action": {
 			"type": "allow"
 		},
@@ -3617,7 +4552,24 @@
 		}
 	},
 	{
-		"id": 58578,
+		"priority": 1,
+		"id": 66161,
+		"action": {
+			"type": "allow"
+		},
+		"condition": {
+			"urlFilter": "||imasdk.googleapis.com/js/sdkloader/ima3_dai.js",
+			"initiatorDomains": [
+				"goplay.be"
+			],
+			"resourceTypes": [
+				"script"
+			],
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 66237,
 		"action": {
 			"type": "redirect",
 			"redirect": {
@@ -3636,7 +4588,7 @@
 		}
 	},
 	{
-		"id": 58726,
+		"id": 66385,
 		"action": {
 			"type": "block"
 		},
@@ -3647,7 +4599,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 59483,
+		"id": 67063,
 		"action": {
 			"type": "allow"
 		},
@@ -3660,7 +4612,7 @@
 		}
 	},
 	{
-		"id": 59607,
+		"id": 67187,
 		"action": {
 			"type": "block"
 		},
@@ -3671,7 +4623,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 59891,
+		"id": 67471,
 		"action": {
 			"type": "allow"
 		},
@@ -3685,7 +4637,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 59990,
+		"id": 67570,
 		"action": {
 			"type": "allow"
 		},
@@ -3698,7 +4650,7 @@
 		}
 	},
 	{
-		"id": 60052,
+		"id": 67632,
 		"action": {
 			"type": "block"
 		},
@@ -3709,7 +4661,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 60136,
+		"id": 67716,
 		"action": {
 			"type": "allow"
 		},
@@ -3726,7 +4678,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 60278,
+		"id": 67858,
 		"action": {
 			"type": "allow"
 		},
@@ -3737,7 +4689,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 60766,
+		"id": 68152,
 		"action": {
 			"type": "allow"
 		},
@@ -3748,7 +4700,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 60875,
+		"id": 68261,
 		"action": {
 			"type": "allow"
 		},
@@ -3763,18 +4715,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 61461,
-		"action": {
-			"type": "allow"
-		},
-		"condition": {
-			"urlFilter": "||gamekings.tv/wp-content/themes/*/js/ads.js",
-			"isUrlFilterCaseSensitive": false
-		}
-	},
-	{
-		"priority": 1,
-		"id": 61596,
+		"id": 68880,
 		"action": {
 			"type": "allow"
 		},
@@ -3789,7 +4730,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 61763,
+		"id": 69047,
 		"action": {
 			"type": "allow"
 		},
@@ -3800,7 +4741,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 61884,
+		"id": 69168,
 		"action": {
 			"type": "allow"
 		},
@@ -3810,7 +4751,17 @@
 		}
 	},
 	{
-		"id": 67805,
+		"id": 74910,
+		"action": {
+			"type": "block"
+		},
+		"condition": {
+			"urlFilter": "||e*.knack.be/rest/dialogues/files/*/Banner_Notificaties_AppInstall",
+			"isUrlFilterCaseSensitive": false
+		}
+	},
+	{
+		"id": 75163,
 		"action": {
 			"type": "block"
 		},
@@ -3820,7 +4771,7 @@
 		}
 	},
 	{
-		"id": 68015,
+		"id": 75373,
 		"action": {
 			"type": "block"
 		},
@@ -3830,7 +4781,7 @@
 		}
 	},
 	{
-		"id": 68589,
+		"id": 75947,
 		"action": {
 			"type": "block"
 		},
@@ -3843,7 +4794,7 @@
 		}
 	},
 	{
-		"id": 69186,
+		"id": 76544,
 		"action": {
 			"type": "block"
 		},
@@ -3853,7 +4804,7 @@
 		}
 	},
 	{
-		"id": 69375,
+		"id": 76733,
 		"action": {
 			"type": "block"
 		},
@@ -3866,7 +4817,7 @@
 		}
 	},
 	{
-		"id": 69457,
+		"id": 76815,
 		"action": {
 			"type": "block"
 		},
@@ -3876,7 +4827,7 @@
 		}
 	},
 	{
-		"id": 70014,
+		"id": 77407,
 		"action": {
 			"type": "block"
 		},
@@ -3886,7 +4837,7 @@
 		}
 	},
 	{
-		"id": 70156,
+		"id": 77549,
 		"action": {
 			"type": "block"
 		},
@@ -3899,7 +4850,7 @@
 		}
 	},
 	{
-		"id": 70356,
+		"id": 77749,
 		"action": {
 			"type": "block"
 		},
@@ -3909,7 +4860,7 @@
 		}
 	},
 	{
-		"id": 70403,
+		"id": 77796,
 		"action": {
 			"type": "block"
 		},
@@ -3919,7 +4870,7 @@
 		}
 	},
 	{
-		"id": 70452,
+		"id": 77845,
 		"action": {
 			"type": "block"
 		},
@@ -3929,7 +4880,7 @@
 		}
 	},
 	{
-		"id": 71157,
+		"id": 78561,
 		"action": {
 			"type": "block"
 		},
@@ -3939,7 +4890,7 @@
 		}
 	},
 	{
-		"id": 71196,
+		"id": 78600,
 		"action": {
 			"type": "block"
 		},
@@ -3949,7 +4900,7 @@
 		}
 	},
 	{
-		"id": 71225,
+		"id": 78629,
 		"action": {
 			"type": "block"
 		},
@@ -3959,7 +4910,7 @@
 		}
 	},
 	{
-		"id": 71321,
+		"id": 78725,
 		"action": {
 			"type": "block"
 		},
@@ -3969,7 +4920,7 @@
 		}
 	},
 	{
-		"id": 71354,
+		"id": 78758,
 		"action": {
 			"type": "block"
 		},
@@ -3979,7 +4930,7 @@
 		}
 	},
 	{
-		"id": 71665,
+		"id": 79036,
 		"action": {
 			"type": "block"
 		},
@@ -3992,7 +4943,7 @@
 		}
 	},
 	{
-		"id": 72773,
+		"id": 80178,
 		"action": {
 			"type": "block"
 		},
@@ -4005,7 +4956,7 @@
 		}
 	},
 	{
-		"id": 72835,
+		"id": 80240,
 		"action": {
 			"type": "block"
 		},
@@ -4018,7 +4969,7 @@
 		}
 	},
 	{
-		"id": 72890,
+		"id": 80295,
 		"action": {
 			"type": "block"
 		},
@@ -4031,7 +4982,7 @@
 		}
 	},
 	{
-		"id": 72947,
+		"id": 80352,
 		"action": {
 			"type": "block"
 		},
@@ -4041,7 +4992,7 @@
 		}
 	},
 	{
-		"id": 72969,
+		"id": 80374,
 		"action": {
 			"type": "block"
 		},
@@ -4051,7 +5002,7 @@
 		}
 	},
 	{
-		"id": 73027,
+		"id": 80432,
 		"action": {
 			"type": "block"
 		},
@@ -4061,7 +5012,7 @@
 		}
 	},
 	{
-		"id": 73070,
+		"id": 80475,
 		"action": {
 			"type": "block"
 		},
@@ -4074,7 +5025,7 @@
 		}
 	},
 	{
-		"id": 73111,
+		"id": 80516,
 		"action": {
 			"type": "block"
 		},
@@ -4085,7 +5036,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 74102,
+		"id": 81836,
 		"action": {
 			"type": "allow"
 		},
@@ -4096,7 +5047,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 74166,
+		"id": 81900,
 		"action": {
 			"type": "allow"
 		},
@@ -4106,7 +5057,7 @@
 		}
 	},
 	{
-		"id": 74227,
+		"id": 81961,
 		"action": {
 			"type": "redirect",
 			"redirect": {
@@ -4126,7 +5077,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 74396,
+		"id": 82130,
 		"action": {
 			"type": "allow"
 		},
@@ -4140,7 +5091,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 74473,
+		"id": 82207,
 		"action": {
 			"type": "allow"
 		},
@@ -4154,7 +5105,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 74543,
+		"id": 82277,
 		"action": {
 			"type": "allow"
 		},
@@ -4165,7 +5116,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 74606,
+		"id": 82340,
 		"action": {
 			"type": "allow"
 		},
@@ -4176,7 +5127,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 74728,
+		"id": 82462,
 		"action": {
 			"type": "allow"
 		},
@@ -4190,7 +5141,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 74850,
+		"id": 82584,
 		"action": {
 			"type": "allow"
 		},
@@ -4202,7 +5153,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 75117,
+		"id": 82851,
 		"action": {
 			"type": "allow"
 		},
@@ -4216,35 +5167,7 @@
 	},
 	{
 		"priority": 1,
-		"id": 75232,
-		"action": {
-			"type": "allow"
-		},
-		"condition": {
-			"urlFilter": "||cdn-static.liverail.com/swf/",
-			"initiatorDomains": [
-				"dumpert.nl"
-			],
-			"isUrlFilterCaseSensitive": false
-		}
-	},
-	{
-		"priority": 1,
-		"id": 75284,
-		"action": {
-			"type": "allow"
-		},
-		"condition": {
-			"urlFilter": "||cdn-static.liverail.com/crossdomain.xml",
-			"initiatorDomains": [
-				"dumpert.nl"
-			],
-			"isUrlFilterCaseSensitive": false
-		}
-	},
-	{
-		"priority": 1,
-		"id": 75395,
+		"id": 82950,
 		"action": {
 			"type": "allow"
 		},

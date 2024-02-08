@@ -18,14 +18,14 @@ export enum RulesetType {
 export const FILTER_RULESET = {
     [RulesetType.RULESET_1]: { id: 1, enabled: false },
     [RulesetType.RULESET_2]: { id: 2, enabled: true },
-    [RulesetType.RULESET_3]: { id: 3, enabled: false },
-    [RulesetType.RULESET_4]: { id: 4, enabled: false },
+    [RulesetType.RULESET_3]: { id: 3, enabled: true },
+    [RulesetType.RULESET_4]: { id: 4, enabled: true },
     [RulesetType.RULESET_6]: { id: 6, enabled: false },
     [RulesetType.RULESET_7]: { id: 7, enabled: false },
     [RulesetType.RULESET_8]: { id: 8, enabled: false },
     [RulesetType.RULESET_9]: { id: 9, enabled: false },
     [RulesetType.RULESET_13]: { id: 13, enabled: false },
-    [RulesetType.RULESET_14]: { id: 14, enabled: false },
+    [RulesetType.RULESET_14]: { id: 14, enabled: true },
     [RulesetType.RULESET_16]: { id: 16, enabled: false },
     [RulesetType.RULESET_224]: { id: 224, enabled: false },
 };

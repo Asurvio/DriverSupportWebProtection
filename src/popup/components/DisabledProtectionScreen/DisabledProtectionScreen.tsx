@@ -36,13 +36,16 @@ export const DisabledProtectionScreen = observer(() => {
                     </h6>
                 </section>
                 <Switcher disabled />
-                <button
-                    type="button"
-                    className={cn(theme.common.actionButton, styles.buttonGreen)}
+                <hr className={theme.common.horizontalDivider} />
+                <div
+                    className={cn(theme.common.customLink)}
                     onClick={resumeProtection}
+                    onKeyDown={resumeProtection}
+                    role="button"
+                    tabIndex={0}
                 >
                     {reactTranslator.getMessage('popup_protection_resume_now')}
-                </button>
+                </div>
             </div>
         </>
     );

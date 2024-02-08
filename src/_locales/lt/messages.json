@@ -18,7 +18,7 @@
         "message": "Lithuanian (Lithuania)"
     },
     "options_base_filter": {
-        "message": "PageBoost bazinis filtras"
+        "message": "Driver Support One bazinis filtras"
     },
     "options_custom_filters_option": {
         "message": "Pasirinktiniai filtrai"
@@ -33,7 +33,7 @@
         "message": "Blokuoti reklamą šioje svetainėje"
     },
     "options_open_settings": {
-        "message": "PageBoost nustatymai"
+        "message": "Driver Support One nustatymai"
     },
     "options_settings_title": {
         "message": "Nustatymai"
@@ -51,7 +51,7 @@
         "message": "GitHub"
     },
     "options_discuss": {
-        "message": "Aptarti PageBoost"
+        "message": "Aptarti Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "Visos teisės saugomos."
@@ -69,10 +69,10 @@
         "message": "Pranešti apie problemą..."
     },
     "context_menu_open_options": {
-        "message": "PageBoost nustatymai..."
+        "message": "Driver Support One nustatymai..."
     },
     "context_menu_disable_blocking": {
-        "message": "Pristabdyti PageBoost apsaugą"
+        "message": "Pristabdyti Driver Support One apsaugą"
     },
     "options_custom_filter_modal_remove_button": {
         "message": "Ištrinti"
@@ -123,9 +123,9 @@
         "message": "Atšaukti"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

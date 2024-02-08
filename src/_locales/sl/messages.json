@@ -1,6 +1,6 @@
 {
     "name": {
-        "message": "Eksperimentalni PageBoost Zaviralec oglasov MV3"
+        "message": "Eksperimentalni Driver Support One Zaviralec oglasov MV3"
     },
     "description": {
         "message": "Eksperimentalna različica neprimerljive razširitve za zaviranje oglasov, zgrajene na Manifest V3."
@@ -27,7 +27,7 @@
         "message": "Eksperimentalno"
     },
     "popup_steps_experimental_description": {
-        "message": "Naši alkimisti poznajo načine, kako ukrotiti izzive MV3. Zdaj PageBoost deluje z Manifest V3."
+        "message": "Naši alkimisti poznajo načine, kako ukrotiti izzive MV3. Zdaj Driver Support One deluje z Manifest V3."
     },
     "popup_steps_new_tech_title": {
         "message": "Inovativno"
@@ -39,13 +39,13 @@
         "message": "Hitro"
     },
     "popup_steps_fast_work_description": {
-        "message": "Povečali smo učinkovitost PageBoosta s preoblikovanjem naših knjižnic za zaviranje vsebine in uporabo funkcij MV3."
+        "message": "Povečali smo učinkovitost Driver Support One s preoblikovanjem naših knjižnic za zaviranje vsebine in uporabo funkcij MV3."
     },
     "popup_steps_v3_manifest_title": {
         "message": "Manifest V3"
     },
     "popup_steps_v3_manifest_description": {
-        "message": "Morda boste opazili le en rezultat PageBoostovega prehoda na MV3: še boljša zmogljivost."
+        "message": "Morda boste opazili le en rezultat Driver Support One ovega prehoda na MV3: še boljša zmogljivost."
     },
     "popup_learn_more_link": {
         "message": "Več o tem"
@@ -93,13 +93,13 @@
         "message": "Slovenian"
     },
     "options_base_filter": {
-        "message": "PageBoost Osnovni filter"
+        "message": "Driver Support One Osnovni filter"
     },
     "options_custom_filters_option": {
         "message": "Filtri po meri"
     },
     "options_custom_filters_option_desc": {
-        "message": "Dodajte filtre po meri na podlagi pravil filtriranja PageBoost"
+        "message": "Dodajte filtre po meri na podlagi pravil filtriranja Driver Support One"
     },
     "options_static_filters_limits_by_rules": {
         "message": "Dosegli ste omejitev aktivnih vgrajenih pravil. Za aktiviranje novih pravil, onemogočite nekatere vgrajene filtre. <newline><\/newline> <link-to-limits>Omejitve pravil<\/link-to-limits>"
@@ -150,7 +150,7 @@
         "message": "Onemogoči oglase na tej spletni strani"
     },
     "options_open_settings": {
-        "message": "Nastavitve PageBoosta"
+        "message": "Nastavitve Driver Support One"
     },
     "options_settings_title": {
         "message": "Nastavitve"
@@ -159,7 +159,7 @@
         "message": "Vizitka"
     },
     "options_about_product": {
-        "message": "PageBoost Razširitev brskalnika MV3"
+        "message": "Driver Support One Razširitev brskalnika MV3"
     },
     "options_about_version": {
         "message": "Različica"
@@ -177,13 +177,13 @@
         "message": "Uradna spletna stran"
     },
     "options_discuss": {
-        "message": "Pogovor z PageBoostom"
+        "message": "Pogovor z Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "Vse pravice so pridržane."
     },
     "options_notice_program": {
-        "message": "Ta razširitev je eksperimentalni projekt ekipe PageBoost"
+        "message": "Ta razširitev je eksperimentalni projekt ekipe Driver Support One"
     },
     "options_notice_compare_link": {
         "message": "Več o tem"
@@ -231,13 +231,13 @@
         "message": "Prijavi težavo..."
     },
     "context_menu_open_options": {
-        "message": "Nastavitve PageBoosta..."
+        "message": "Nastavitve Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "Začasno zaustavi PageBoostovo zaščito"
+        "message": "Začasno zaustavi Driver Support One zaščito"
     },
     "context_menu_enable_blocking": {
-        "message": "Omogoči PageBoostovo zaščito"
+        "message": "Omogoči Driver Support One zaščito"
     },
     "options_add_custom_filter": {
         "message": "Dodaj filter po  meri"
@@ -438,13 +438,13 @@
         "message": "Možnost 1. Iz brskalnika izbrišite nepotrebne razširitve zaviralcev oglasov. Za ponovno aktiviranje filtrov, omenjene v razdelku 'Filtri, omogočeni pred posodobitvijo', kliknite <button>znova aktiviraj filtre<\/button>."
     },
     "options_limits_warning_desc_app": {
-        "message": "Možnost 2. Namestite aplikacijo PageBoost Zaviralec oglasov: ta nima omejitev glede pravil filtriranja. <link>Prenesi PageBoost Zaviralec oglasov<\/link>"
+        "message": "Možnost 2. Namestite aplikacijo Driver Support One Zaviralec oglasov: ta nima omejitev glede pravil filtriranja. <link>Prenesi Driver Support One Zaviralec oglasov<\/link>"
     },
     "options_limits_warning_desc_close": {
         "message": "Možnost 3. Če ste zadovoljni s trenutno omogočenimi privzetimi filtri, <button>zaprite to opozorilo<\/button>."
     },
     "options_nav_better_than_extension": {
-        "message": "Za razliko od razširitve aplikacija PageBoost onemogoča oglase brez omejitev."
+        "message": "Za razliko od razširitve aplikacija Driver Support One onemogoča oglase brez omejitev."
     },
     "options_nav_compare": {
         "message": "Primerjaj"

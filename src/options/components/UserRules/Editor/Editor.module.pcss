@@ -9,19 +9,30 @@
 
 .editor {
     padding: 16px 12px;
-    background: var(--grayDark);
-    border: 1px solid var(--gray700);
     border-radius: 8px;
     box-sizing: border-box;
     resize: none;
-    color: var(--white);
     font-weight: 400;
     font-size: 0.87rem;
     line-height: 1.5rem;
+    background-color: var(--white);
+    border: 1px solid var(--gray700);
+    
+    &::first-line {
+        background-color: var(--white);
+    }
 }
 
 .editorUserRules {
     height: 100%!important;
+    color: var(--gray-option);
+    background-color: var(--white);
+    border: 1px solid var(--gray700);
+    
+    &::first-line {
+        color: var(--gray-option);
+        background-color: var(--white);
+    }
 }
 
 .btnLeft {

@@ -154,6 +154,7 @@ export const Editor = observer(() => {
                 onFocus={onFocus}
                 commands={shortcuts}
                 fontSize="0.87rem"
+                highlightActiveLine={false}
             />
             <ReactResizeDetector
                 skipOnMount
@@ -174,13 +175,6 @@ export const Editor = observer(() => {
                     onClick={onSave}
                 >
                     {reactTranslator.getMessage('options_editor_save')}
-                </button>
-                <button
-                    className={cn(theme.button.middle, theme.button.red)}
-                    type="button"
-                    onClick={onCancel}
-                >
-                    {reactTranslator.getMessage('options_editor_cancel')}
                 </button>
             </div>
         </div>

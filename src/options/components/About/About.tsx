@@ -5,10 +5,10 @@ import { reactTranslator } from 'Common/translators/reactTranslator';
 import { theme } from 'Common/styles';
 import {
     ACKNOWLEDGMENTS,
-    DISCUSS,
     GITHUB,
     PRIVACY,
     WEBSITE,
+    EULA,
 } from 'Common/constants/urls';
 
 import styles from './About.module.pcss';
@@ -23,16 +23,16 @@ const linkList = [
         label: reactTranslator.getMessage('options_site'),
     },
     {
-        href: DISCUSS,
-        label: reactTranslator.getMessage('options_discuss'),
-    },
-    {
         href: ACKNOWLEDGMENTS,
         label: reactTranslator.getMessage('options_acknowledgment'),
     },
     {
         href: GITHUB,
         label: reactTranslator.getMessage('options_github'),
+    },
+    {
+        href: EULA,
+        label: reactTranslator.getMessage('options_EULA'),
     },
 ];
 
@@ -53,15 +53,27 @@ export const About = () => {
             </div>
             <div className={theme.common.headingSecondary}>
                 <div>
-                    {`© 2009-${new Date().getFullYear()} AdGuard Software Ltd.`}
+                    {`© ${new Date().getFullYear()} Driver Support`}
                 </div>
                 <div>
                     {reactTranslator.getMessage('options_about_rights_reserved')}
                 </div>
             </div>
             <div className={styles.readMoreSection}>
-                { linkList.map(({ href, label }) => (
-                    <div className={styles.readMoreLinkWrapper} key={href}>
+                {linkList.map(({ href, label }) => {
+                    if (href.startsWith("#")) {
+                        return <div className={styles.readMoreLinkWrapper} key={href}>
+                            <a
+                                href={href}
+                                className={cn(theme.common.link, styles.readMoreLink)}
+                            >
+                                {label}
+                            </a>
+                        </div>
+                    }
+                    else
+                    {
+                        return <div className={styles.readMoreLinkWrapper} key={href}>
                         <a
                             href={href}
                             className={cn(theme.common.link, styles.readMoreLink)}
@@ -71,7 +83,8 @@ export const About = () => {
                             {label}
                         </a>
                     </div>
-                )) }
+                    }
+                })}
             </div>
         </section>
     );

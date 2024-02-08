@@ -18,13 +18,13 @@
         "<all_urls>"
     ],
     "icons": {
-        "16": "assets/icons/pageboost - favicon.png",
-        "128": "assets/icons/pageboost - favicon.png"
+        "16": "assets/icons/dsone - favicon.png",
+        "128": "assets/icons/dsone - favicon.png"
     },
     "action": {
         "default_icon": {
-            "19": "assets/icons/pageboost - favicon.png",
-            "38": "assets/icons/pageboost - favicon.png"
+            "19": "assets/icons/dsone - favicon.png",
+            "38": "assets/icons/dsone - favicon.png"
         },
         "default_title": "__MSG_name__",
         "default_popup": "popup.html"

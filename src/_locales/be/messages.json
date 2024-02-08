@@ -24,7 +24,7 @@
         "message": "Belarusian (Belarus)"
     },
     "options_base_filter": {
-        "message": "Базавы фільтр PageBoost"
+        "message": "Базавы фільтр Driver Support One"
     },
     "options_custom_filters_option": {
         "message": "Уласныя фільтры"
@@ -42,7 +42,7 @@
         "message": "Блакаваць рэкламу на гэтым сайце"
     },
     "options_open_settings": {
-        "message": "Наладзіць PageBoost"
+        "message": "Наладзіць Driver Support One"
     },
     "options_settings_title": {
         "message": "Налады"
@@ -66,7 +66,7 @@
         "message": "Афіцыйны сайт"
     },
     "options_discuss": {
-        "message": "Абмеркаваць PageBoost"
+        "message": "Абмеркаваць Driver Support One"
     },
     "options_about_rights_reserved": {
         "message": "Усе правы захаваныя."
@@ -87,10 +87,10 @@
         "message": "Дадаць скаргу на гэты сайт…"
     },
     "context_menu_open_options": {
-        "message": "Наладзіць PageBoost..."
+        "message": "Наладзіць Driver Support One..."
     },
     "context_menu_disable_blocking": {
-        "message": "Прыпыніць абарону PageBoost"
+        "message": "Прыпыніць абарону Driver Support One"
     },
     "options_add_custom_filter": {
         "message": "Дадаць свой"
@@ -162,9 +162,9 @@
         "message": "Параўнаць"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

@@ -24,7 +24,7 @@
         "message": "वेबसाइट पर विज्ञापनों को अवरुद्ध करें"
     },
     "options_open_settings": {
-        "message": "PageBoost सेटिंग्स"
+        "message": "Driver Support One सेटिंग्स"
     },
     "options_settings_title": {
         "message": "सेटिंग्स"
@@ -57,7 +57,7 @@
         "message": "मामले का विवरण करें..."
     },
     "context_menu_open_options": {
-        "message": "PageBoost सेटिंग्स..."
+        "message": "Driver Support One सेटिंग्स..."
     },
     "context_menu_disable_blocking": {
         "message": "एडगार्ड सुरक्षा रोकें"
@@ -69,9 +69,9 @@
         "message": "खोज"
     },
     "name": {
-        "message": "PageBoost"
+        "message": "Driver Support One"
     },
     "description": {
-        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with PageBoost."
+        "message": "Instantly block annoying ads, pop-ups & intrusive trackers that compromise your privacy with Driver Support One."
     }
 }

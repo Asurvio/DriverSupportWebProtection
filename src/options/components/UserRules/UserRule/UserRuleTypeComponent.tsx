@@ -17,7 +17,7 @@ const UserRuleTypeMap: Record<UserRuleType, TypeProps> = {
         classname: styles.green,
     },
     [UserRuleType.SITE_BLOCKED]: {
-        message: translator.getMessage('options_user_rule_status_website_blocked'),
+        message: translator.getMessage('options_user_rule_status_website_content_request_blocked'),
         classname: styles.red,
     },
     [UserRuleType.ELEMENT_BLOCKED]: {

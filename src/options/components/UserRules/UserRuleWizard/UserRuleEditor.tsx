@@ -52,6 +52,7 @@ export const UserRuleEditor = ({ ruleText, onChange, mod }: UserRuleEditorProps)
                 onFocus={onFocus}
                 maxLines={1}
                 fontSize="1rem"
+                highlightActiveLine={false}
             />
         </div>
     );
