@@ -1,4 +1,4 @@
-Asurvio Page Boost -- AdGuard relabel
+Asurvio Page Boost
 
 "yarn install" to get packages
 
